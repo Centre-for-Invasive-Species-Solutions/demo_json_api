@@ -32,7 +32,7 @@ def generateIndex_HR():
                     name = data.get('sciName', filename) 
                     display_path = os.path.join( write_dir, filename )
                     url = "https://dane-2pi.github.io/demo_json_api/data/" + display_path
-                    file.write('\t ['+ name + "](" + url + ')\n')
+                    file.write('- ['+ name + "](" + url + ')\n')
 
 
 def generateIndex_API():
