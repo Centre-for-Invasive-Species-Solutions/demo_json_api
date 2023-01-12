@@ -18,7 +18,7 @@ def generateIndex_HR():
             # Current Iteration Directory
             if not (write_dir):
                 write_dir = "Data"
-            file.write( "## " + write_dir + "\n" )
+            file.write( "## " + write_dir + "\n\n" )
 
             # Directories
             # for dirname in subdirs:
@@ -32,7 +32,7 @@ def generateIndex_HR():
                     name = data.get('sciName', filename) 
                     display_path = os.path.join( write_dir, filename )
                     url = "https://dane-2pi.github.io/demo_json_api/data/" + display_path
-                    file.write('- ['+ name + "](" + url + ')\n')
+                    file.write('- ['+ name + "](" + url + ')\n\n')
 
 
 def generateIndex_API():
@@ -64,7 +64,11 @@ def generateIndex_API_hr():
                 data[write_dir] = files
         holder = {'data': data}
         hr_api_file.write("# API Endpoints")
+        hr_api_file.write("\n\n```")
+
         json.dump(holder, hr_api_file, indent = 6)
+        hr_api_file.write("```")
+
   
 
 # Using the special variable 
