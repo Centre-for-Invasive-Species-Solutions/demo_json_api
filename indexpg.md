@@ -1,6 +1,6 @@
 layout: page
 title: "Index"
-permalink: /index
+permalink: /indexpg
 
 
 #this will be an index page
