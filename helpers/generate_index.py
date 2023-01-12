@@ -3,6 +3,7 @@ import json
 
 data_source = "./data"
 api_page = "./api.json"
+api_page_hr = "./api.md"
 index_human = "./index_hr.md"
 
 def generateIndex_HR():
@@ -15,11 +16,11 @@ def generateIndex_HR():
         for current_dir, subdirs, files in os.walk( data_source ):
             write_dir = current_dir[len(data_source)+1:]
             # Current Iteration Directory
-            file.write( "# " + write_dir + "\n" )
+            file.write( "## " + write_dir + "\n" )
 
             # Directories
             for dirname in subdirs:
-                file.write( '\t' + dirname + '\n' )
+                file.write( ' - ' + dirname + '\n' )
 
             # Files
             for filename in files:
@@ -46,6 +47,10 @@ def generateIndex_API():
             #     data[dirname] = files
         holder = {'data': data}
         json.dump(holder, api_file, indent = 6)
+        hr = open(api_page_hr, "w")
+        json.dump(holder, hr, indent = 6)
+        hr.close
+
   
 
 # Using the special variable 
