@@ -1,3 +1,5 @@
+This is for when you are using jekyll -- we aren't yet. 
+
 layout: page
 title: "Index"
 permalink: /indexpg
