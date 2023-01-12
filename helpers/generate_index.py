@@ -16,11 +16,13 @@ def generateIndex_HR():
         for current_dir, subdirs, files in os.walk( data_source ):
             write_dir = current_dir[len(data_source)+1:]
             # Current Iteration Directory
+            if not (write_dir):
+                write_dir = "Data"
             file.write( "## " + write_dir + "\n" )
 
             # Directories
-            for dirname in subdirs:
-                file.write( ' - ' + dirname + '\n' )
+            # for dirname in subdirs:
+            #     file.write( ' - ' + dirname + '\n' )
 
             # Files
             for filename in files:
@@ -48,9 +50,21 @@ def generateIndex_API():
         holder = {'data': data}
         json.dump(holder, api_file, indent = 6)
         hr = open(api_page_hr, "w")
+        hr.write("# API Endpoints")
         json.dump(holder, hr, indent = 6)
         hr.close
 
+def generateIndex_API_hr():
+    data = {}
+    with open(api_page_hr,"w") as hr_api_file:
+        for current_dir, subdirs, files in os.walk( data_source ):
+            write_dir = current_dir[len(data_source)+1:]
+            # Current Iteration Directory
+            if (len(files)):   
+                data[write_dir] = files
+        holder = {'data': data}
+        hr_api_file.write("# API Endpoints")
+        json.dump(holder, hr_api_file, indent = 6)
   
 
 # Using the special variable 
@@ -58,3 +72,4 @@ def generateIndex_API():
 if __name__=="__main__":
     generateIndex_HR()
     generateIndex_API()
+    generateIndex_API_hr()
