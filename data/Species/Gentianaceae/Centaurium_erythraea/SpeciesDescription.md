@@ -1,0 +1,1 @@
+ **Family** Gentianaceae **Scientific Name** Centaurium erythraea **Plant Form** Erect rosette herb. **Size** 15-50cm tall.

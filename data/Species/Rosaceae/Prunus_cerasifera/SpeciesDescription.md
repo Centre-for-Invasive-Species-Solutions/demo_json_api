@@ -1,0 +1,1 @@
+ **Family** Rosaceae **Scientific Name** Prunus cerasifera **Plant Form** Large deciduous shrub or small tree. **Size** Up to 12 m tall.

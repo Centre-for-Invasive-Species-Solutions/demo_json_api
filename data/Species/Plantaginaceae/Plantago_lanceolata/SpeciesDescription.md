@@ -1,0 +1,1 @@
+ **Family** Plantaginaceae **Scientific Name** Plantago lanceolata **Plant Form** Annual or biennial rosette herb. **Size** Up to 45cm tall.

@@ -1,0 +1,1 @@
+ **Family** Apiaceae **Scientific Name** Conium maculatum **Plant Form** Upright annual herb. **Size** 1-2m tall.

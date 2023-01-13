@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Gazania linearis **Plant Form** Tufted perennial herb. **Size** Up to 30cm tall.

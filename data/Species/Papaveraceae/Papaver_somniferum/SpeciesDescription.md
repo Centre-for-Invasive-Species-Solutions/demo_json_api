@@ -1,0 +1,1 @@
+ **Family** Papaveraceae **Scientific Name** Papaver somniferum **Plant Form** Erect annual herb. **Size** Up to 1m tall.

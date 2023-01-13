@@ -1,0 +1,1 @@
+ **Family** Crassulaceae **Scientific Name** Crassula colorata **Plant Form** Erect annual herb. **Size** Up to 15cm tall.

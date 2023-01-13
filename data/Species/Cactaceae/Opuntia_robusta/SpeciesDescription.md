@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Opuntia robusta **Plant Form** Upright succulent shrub. **Size** Usually 1-2m tall, but up to 4m.

@@ -1,0 +1,1 @@
+ **Family** Verbenaceae **Scientific Name** Verbena bonariensis **Plant Form** Upright perennial herb. **Size** Up to 2 m tall.

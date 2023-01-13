@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Cichorium intybus **Plant Form** Perennial rosette herb. **Size** 30-120cm tall.

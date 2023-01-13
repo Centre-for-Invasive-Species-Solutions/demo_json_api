@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Conyza **Plant Form** Erect annual herb.

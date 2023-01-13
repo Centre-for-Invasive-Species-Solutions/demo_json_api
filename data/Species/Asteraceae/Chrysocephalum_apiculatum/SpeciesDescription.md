@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Chrysocephalum apiculatum **Plant Form** Bushy herb. **Size** 7-60cm tall.

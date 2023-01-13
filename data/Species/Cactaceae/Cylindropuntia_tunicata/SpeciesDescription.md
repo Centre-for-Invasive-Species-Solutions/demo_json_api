@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Cylindropuntia tunicata **Plant Form** Densely branched shrubs. **Size** 30 to 60 cm tall.
