@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Carduus tenuiflorus **Plant Form** Erect annual herb. **Size** 50-150 cm tall.

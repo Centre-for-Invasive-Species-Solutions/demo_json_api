@@ -1,0 +1,1 @@
+ **Family** Orobanchaceae **Scientific Name** Striga asiatica

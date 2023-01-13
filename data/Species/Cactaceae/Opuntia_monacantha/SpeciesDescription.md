@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Opuntia monacantha **Plant Form** Upright succulent shrub or tree-like plant. **Size** Usually 2-3 m tall but up to 6 m.

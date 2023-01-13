@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Sonchus oleraceus **Plant Form** Annual rosette herb. **Size** 30cm to 1.1m tall.

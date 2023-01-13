@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Opuntia elata **Plant Form** Multi branched shrubby succulent. **Size** Up to 2 m tall.

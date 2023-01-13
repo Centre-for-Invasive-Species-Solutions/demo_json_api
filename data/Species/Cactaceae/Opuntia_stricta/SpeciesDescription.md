@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Opuntia stricta **Plant Form** Upright spreading succulent shrub. **Size** 50 cm to 2 m tall.

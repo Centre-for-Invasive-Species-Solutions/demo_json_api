@@ -1,0 +1,1 @@
+ **Family** Papaveraceae **Scientific Name** Papaver hybridum **Plant Form** Erect annual herb. **Size** Up to 50cm tall.

@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Xanthium strumarium

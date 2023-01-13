@@ -1,0 +1,1 @@
+ **Family** Poaceae **Scientific Name** Themeda triandra **Plant Form** Tufted perennial grass. **Size** Up to 1.5 m tall.

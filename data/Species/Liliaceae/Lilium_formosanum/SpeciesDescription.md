@@ -1,0 +1,1 @@
+ **Family** Liliaceae **Scientific Name** Lilium formosanum **Plant Form** Upright perennial herb. **Size** Up to 2m tall.

@@ -1,0 +1,1 @@
+ **Family** Poaceae **Scientific Name** Phragmites australis **Plant Form** Tall perennial semi-aquatic grass. **Size** Up to 6m tall.

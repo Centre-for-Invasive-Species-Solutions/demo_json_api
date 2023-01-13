@@ -1,0 +1,1 @@
+ **Family** Cactaceae **Scientific Name** Opuntia puberula **Plant Form** Erect spreading multi stemmed shrub. **Size** Up to 2 m tall.

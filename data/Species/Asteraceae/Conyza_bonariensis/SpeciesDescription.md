@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Conyza bonariensis **Plant Form** Erect annual herb. **Size** Up to 1m tall.

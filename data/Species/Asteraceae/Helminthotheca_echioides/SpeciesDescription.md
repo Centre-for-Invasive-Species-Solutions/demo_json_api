@@ -1,0 +1,1 @@
+ **Family** Asteraceae **Scientific Name** Helminthotheca echioides **Plant Form** Annual to perennial rosette herb. **Size** Up to 100cm tall.

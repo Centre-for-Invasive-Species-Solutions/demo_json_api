@@ -1,0 +1,1 @@
+ **Family** Nymphaeaceae **Scientific Name** Nymphaea **Plant Form** Aquatic perennial with floating leaves. **Size** 50 cm to 2 m deep.
