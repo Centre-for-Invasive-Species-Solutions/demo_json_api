@@ -5,9 +5,9 @@
 
 
 
-![Large leaves compare to congeners](118097_P1241639.jpg)
-   *Large leaves compare to congeners* 
+![Large leaves compare to congeners](118097_P1241639.jpg)  
+ *Large leaves compare to congeners* 
 
-![Climbs tree trunks](89340_P1211041.jpg)
-   *Climbs tree trunks* 
+![Climbs tree trunks](89340_P1211041.jpg)  
+ *Climbs tree trunks* 
 

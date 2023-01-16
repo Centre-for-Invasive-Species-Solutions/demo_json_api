@@ -5,15 +5,15 @@
 **Plant Form** Perennial creeping or scrambling mat-forming herb. **Size** Up to 70 cm tall, more when climbing. **Stem** Low running stems with upright flower stalks. **Leaves** Glossy, dark green above, paler underside, 4-18 cm long, lance shaped with usually 3-lobes and toothed edges. In pairs along stem. **Flowers** Yellow to orangeish typical daisy with straplike petals in circle, 2 cm diameter on short stalks above leaves. **Fruit and Seeds** Elongated brown seeds 5 mm long. **Habitat** Gardens, parks, drainage channels, roadsides, urban bushland, footpaths. **Distinguishing Features** Quite distinctive. Growth habit and leaves combination.
 
 
-![Flower](5485_DSCF0022.jpg)
-   *Flower* 
+![Flower](5485_DSCF0022.jpg)  
+ *Flower* 
 
-![Leaves](91601_P1196569.jpg)
-   *Leaves* 
+![Leaves](91601_P1196569.jpg)  
+ *Leaves* 
 
-![Infestation](5796_IMG_1311.jpg)
-   *Infestation* 
+![Infestation](5796_IMG_1311.jpg)  
+ *Infestation* 
 
-![Habit](103148_P1230453.jpg)
-   *Habit* 
+![Habit](103148_P1230453.jpg)  
+ *Habit* 
 
