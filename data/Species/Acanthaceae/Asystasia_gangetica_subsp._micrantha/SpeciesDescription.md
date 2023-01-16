@@ -6,7 +6,7 @@
 
 
 ![Flower](4819_IMGP7515.jpg)
-   *Flower* 
+\*Flower* 
 
 ![Leaves](11485_P6940501.jpg)
    *Leaves* 
