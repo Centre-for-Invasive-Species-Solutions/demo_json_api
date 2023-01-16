@@ -6,11 +6,11 @@
 
 
 ![Growth habit](19069_Cortaderia-spp05.jpg)
- *Growth habit* 
+   *Growth habit* 
 
 ![Flowers](19094_Cortaderia-spp13.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](67811_P1075529.jpg)
- *Leaves* 
+   *Leaves* 
 

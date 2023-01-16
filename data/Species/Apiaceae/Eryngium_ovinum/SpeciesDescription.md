@@ -5,11 +5,11 @@
 
 
 ![Mature plant](577_PC152492.jpg)
- *Mature plant* 
+   *Mature plant* 
 
 ![Flower head](580_PC152495.jpg)
- *Flower head* 
+   *Flower head* 
 
 ![Young plant](860_PB170772.jpg)
- *Young plant* 
+   *Young plant* 
 

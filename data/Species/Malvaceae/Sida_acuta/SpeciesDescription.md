@@ -5,11 +5,11 @@
 
 
 ![Flower](99097_P1122890.jpg)
- *Flower* 
+   *Flower* 
 
 ![Leaves](85143_P1152189.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Upright form](100134_P1122271.jpg)
- *Upright form* 
+   *Upright form* 
 

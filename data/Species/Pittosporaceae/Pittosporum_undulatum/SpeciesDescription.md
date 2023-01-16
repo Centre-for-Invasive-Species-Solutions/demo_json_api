@@ -6,14 +6,14 @@
 
 
 ![Leaves and unripe fruit](12664_P6960792.jpg)
- *Leaves and unripe fruit* 
+   *Leaves and unripe fruit* 
 
 ![Ripe fruit (seed pods)](69486_P1011931.jpg)
- *Ripe fruit (seed pods)* 
+   *Ripe fruit (seed pods)* 
 
 ![Foliage](68357_P1000347.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Flowers (RG FJ Richardson)](20565_Pittosporum-undulatum13.jpg)
- *Flowers (RG FJ Richardson)* 
+   *Flowers (RG FJ Richardson)* 
 

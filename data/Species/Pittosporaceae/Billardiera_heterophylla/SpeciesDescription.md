@@ -6,8 +6,8 @@
 
 
 ![Foliage and flowers](82417_P1066800.jpg)
- *Foliage and flowers* 
+   *Foliage and flowers* 
 
 ![Leaves amd flowers](73042__DSF3487.jpg)
- *Leaves amd flowers* 
+   *Leaves amd flowers* 
 

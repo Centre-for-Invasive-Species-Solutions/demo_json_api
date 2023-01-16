@@ -6,11 +6,11 @@
 
 
 ![Infestation (Adam Muyt)](13192_20171209_092147.jpg)
- *Infestation (Adam Muyt)* 
+   *Infestation (Adam Muyt)* 
 
 ![Flowers](82598_P1077373.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves and stem](77480_P1119221.jpg)
- *Leaves and stem* 
+   *Leaves and stem* 
 

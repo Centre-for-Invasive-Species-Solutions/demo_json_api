@@ -6,11 +6,11 @@
 
 
 ![Leaves simple](8631_P6880610.jpg)
- *Leaves simple* 
+   *Leaves simple* 
 
 ![Flowers mostly yellow](79644_P1066527.jpg)
- *Flowers mostly yellow* 
+   *Flowers mostly yellow* 
 
 ![Has a grey-leaved variety](69552_P1022041.jpg)
- *Has a grey-leaved variety* 
+   *Has a grey-leaved variety* 
 

@@ -5,11 +5,11 @@
 
 
 ![Fruit](105227_P1245413.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Leaves](104392_P1234207.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Flowers](64922_P1042475.jpg)
- *Flowers* 
+   *Flowers* 
 

@@ -6,8 +6,8 @@
 
 
 ![Dense growth (RG FJ Richardson)](18446_Allium-triquentrum08.jpg)
- *Dense growth (RG FJ Richardson)* 
+   *Dense growth (RG FJ Richardson)* 
 
 ![Plant (RG FJ Richardson)](18440_Allium-triquentrum02.jpg)
- *Plant (RG FJ Richardson)* 
+   *Plant (RG FJ Richardson)* 
 

@@ -6,11 +6,11 @@
 
 
 ![Leaves and flowers](103618_IMG_8192.jpg)
- *Leaves and flowers* 
+   *Leaves and flowers* 
 
 ![Fluffy seeds](18950_Clematis-vitalba16.jpg)
- *Fluffy seeds* 
+   *Fluffy seeds* 
 
 ![Seeds on vine](12429_20160325_093243.jpg)
- *Seeds on vine* 
+   *Seeds on vine* 
 

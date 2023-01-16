@@ -6,14 +6,14 @@
 
 
 ![Grows in tussocks](1627_PA111633.jpg)
- *Grows in tussocks* 
+   *Grows in tussocks* 
 
 ![Seed heads](8063_P6870384.jpg)
- *Seed heads* 
+   *Seed heads* 
 
 ![Tussocks hidden by flowers](8071_P6870392.jpg)
- *Tussocks hidden by flowers* 
+   *Tussocks hidden by flowers* 
 
 ![Roots eaten by Cockatoos](3124_P6163443.jpg)
- *Roots eaten by Cockatoos* 
+   *Roots eaten by Cockatoos* 
 

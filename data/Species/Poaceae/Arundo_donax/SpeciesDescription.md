@@ -6,14 +6,14 @@
 
 
 ![Foliage in tropical location](5060_DSCF3378.jpg)
- *Foliage in tropical location* 
+   *Foliage in tropical location* 
 
 ![Foliage in temperate location](82174_P1055469.jpg)
- *Foliage in temperate location* 
+   *Foliage in temperate location* 
 
 ![Flower spikes](90062_P1200207.jpg)
- *Flower spikes* 
+   *Flower spikes* 
 
 ![Close-up of leaves](88916_P1211967.jpg)
- *Close-up of leaves* 
+   *Close-up of leaves* 
 

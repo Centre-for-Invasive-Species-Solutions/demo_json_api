@@ -6,11 +6,11 @@
 
 
 ![Flowers](87816_P1233296.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Plantlets at tips of leaves](12259_DSC_0111.jpg)
- *Plantlets at tips of leaves* 
+   *Plantlets at tips of leaves* 
 
 ![Mottled grey leaves](105984_P1267124.jpg)
- *Mottled grey leaves* 
+   *Mottled grey leaves* 
 

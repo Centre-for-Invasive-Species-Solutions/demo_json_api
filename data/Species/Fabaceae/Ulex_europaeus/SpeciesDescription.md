@@ -6,14 +6,14 @@
 
 
 ![Flowers](13830_Gorse_1_Muyt.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Foliage close-up](81535_P1044533.jpg)
- *Foliage close-up* 
+   *Foliage close-up* 
 
 ![Habit](81521_P1044377.jpg)
- *Habit* 
+   *Habit* 
 
 ![Foliage](81520_P1044376.jpg)
- *Foliage* 
+   *Foliage* 
 

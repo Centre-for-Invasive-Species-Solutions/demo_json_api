@@ -6,14 +6,14 @@
 
 
 ![Close up of seed](19339_Echinochloa-crus-galli28.jpg)
- *Close up of seed* 
+   *Close up of seed* 
 
 ![Seed heads and leaves](19312_Echinochloa-crus-galli01.jpg)
- *Seed heads and leaves* 
+   *Seed heads and leaves* 
 
 ![Often in wet areas](10505_P6920274.jpg)
- *Often in wet areas* 
+   *Often in wet areas* 
 
 ![Leaves can be broad](77974_P1119752.jpg)
- *Leaves can be broad* 
+   *Leaves can be broad* 
 

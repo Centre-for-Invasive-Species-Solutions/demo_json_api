@@ -6,11 +6,11 @@
 
 
 ![Flowers](20793_Sagittaria-graminea10.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](20789_Sagittaria-graminea06.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Habit](20784_Sagittaria-graminea01.jpg)
- *Habit* 
+   *Habit* 
 

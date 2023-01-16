@@ -5,14 +5,14 @@
 
 
 ![Flowers](20366_Opuntia-puberula06.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Pad - close-up](48996_Opuntia-puberula_Maryborough-18.jpg)
- *Pad - close-up* 
+   *Pad - close-up* 
 
 ![Pads](20376_Opuntia-puberula16.jpg)
- *Pads* 
+   *Pads* 
 
 ![Growth habit](48998_Opuntia-puberula_Maryborough-2.jpg)
- *Growth habit* 
+   *Growth habit* 
 

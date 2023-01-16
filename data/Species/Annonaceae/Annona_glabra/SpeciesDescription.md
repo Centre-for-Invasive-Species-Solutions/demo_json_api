@@ -6,14 +6,14 @@
 
 
 ![Fluted trunk](5174_IMG_9541.jpg)
- *Fluted trunk* 
+   *Fluted trunk* 
 
 ![Large fruit, yellowish when mature](11078_P6940171.jpg)
- *Large fruit, yellowish when mature* 
+   *Large fruit, yellowish when mature* 
 
 ![Alternate leaves](11052_P6940072.jpg)
- *Alternate leaves* 
+   *Alternate leaves* 
 
 ![Fruit have orange flesh](11071_P6940143.jpg)
- *Fruit have orange flesh* 
+   *Fruit have orange flesh* 
 

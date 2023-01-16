@@ -6,14 +6,14 @@
 
 
 ![Yellow flowers](48875_Opuntia-ficus-indica_Tresco-8.jpg)
- *Yellow flowers* 
+   *Yellow flowers* 
 
 ![Fruit](20357_Opuntia-ficus-indica21.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Leaves - spines are very small](48890_Opuntia-ficus-indica_Tresco-6.jpg)
- *Leaves - spines are very small* 
+   *Leaves - spines are very small* 
 
 ![Growth habit](48877_Opuntia-ficus-indica_Tresco.jpg)
- *Growth habit* 
+   *Growth habit* 
 

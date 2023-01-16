@@ -6,17 +6,17 @@
 
 
 ![Flowers and leaves](9447_P6930403.jpg)
- *Flowers and leaves* 
+   *Flowers and leaves* 
 
 ![Flower](7960_Photo-11-11-20-1-50-14-pm.jpg)
- *Flower* 
+   *Flower* 
 
 ![Stems](9449_P6930405.jpg)
- *Stems* 
+   *Stems* 
 
 ![Tree being smoothered](9773_P6930777.jpg)
- *Tree being smoothered* 
+   *Tree being smoothered* 
 
 ![Vine defoliated by rust](6604_DSCF2031.jpg)
- *Vine defoliated by rust* 
+   *Vine defoliated by rust* 
 

@@ -6,17 +6,17 @@
 
 
 ![Large brown pods](100392_P1100911.jpg)
- *Large brown pods* 
+   *Large brown pods* 
 
 ![Flower](100303_P1100820.jpg)
- *Flower* 
+   *Flower* 
 
 ![Often as thickets](97804_P1155665.jpg)
- *Often as thickets* 
+   *Often as thickets* 
 
 ![Old trees covered in pods](83555_P1130401.jpg)
- *Old trees covered in pods* 
+   *Old trees covered in pods* 
 
 ![Bipinnate leaves](10219_P6910314.jpg)
- *Bipinnate leaves* 
+   *Bipinnate leaves* 
 

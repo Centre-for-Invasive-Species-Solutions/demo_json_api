@@ -6,11 +6,11 @@
 
 
 ![Foliage](11846_P6960635.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Spring growth](3362_P5252352.jpg)
- *Spring growth* 
+   *Spring growth* 
 
 ![Immature seeds](19643_Fraxinus-angustifolia03.jpg)
- *Immature seeds* 
+   *Immature seeds* 
 

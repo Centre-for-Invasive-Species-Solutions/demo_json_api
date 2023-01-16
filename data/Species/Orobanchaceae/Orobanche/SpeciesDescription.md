@@ -6,11 +6,11 @@
 
 
 ![Brown flowers](8292_P6870802.jpg)
- *Brown flowers* 
+   *Brown flowers* 
 
 ![Thick when just emerged](1316_PA273651.jpg)
- *Thick when just emerged* 
+   *Thick when just emerged* 
 
 ![Does not have its own leaves](8286_P6870796.jpg)
- *Does not have its own leaves* 
+   *Does not have its own leaves* 
 

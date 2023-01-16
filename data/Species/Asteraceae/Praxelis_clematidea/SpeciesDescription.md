@@ -6,14 +6,14 @@
 
 
 ![Leaves are smallish and pointed](7445_DSCF4947.jpg)
- *Leaves are smallish and pointed* 
+   *Leaves are smallish and pointed* 
 
 ![Flowers are small](105591_P1256638.jpg)
- *Flowers are small* 
+   *Flowers are small* 
 
 ![Can grow in dry sand, leaves smaller dark](105763_P1256815.jpg)
- *Can grow in dry sand, leaves smaller dark* 
+   *Can grow in dry sand, leaves smaller dark* 
 
 ![Wind-blown seed](105765_P1256817.jpg)
- *Wind-blown seed* 
+   *Wind-blown seed* 
 

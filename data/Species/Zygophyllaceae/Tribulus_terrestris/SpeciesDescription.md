@@ -6,14 +6,14 @@
 
 
 ![Flower](5712_IMG_8056.jpg)
- *Flower* 
+   *Flower* 
 
 ![Seeds, note spines](60132_Tribulus_terrestris_SeagullIsland_Apr09_P4050028.jpg)
- *Seeds, note spines* 
+   *Seeds, note spines* 
 
 ![Foliage and seeds](69505_P1011981.jpg)
- *Foliage and seeds* 
+   *Foliage and seeds* 
 
 ![Infestation](60144_IMG_0087.jpg)
- *Infestation* 
+   *Infestation* 
 

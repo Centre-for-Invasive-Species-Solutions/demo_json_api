@@ -6,11 +6,11 @@
 
 
 ![Flower](4819_IMGP7515.jpg)
- *Flower* 
+   *Flower* 
 
 ![Leaves](11485_P6940501.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Forms clumps](7007_IMGP7519.jpg)
- *Forms clumps* 
+   *Forms clumps* 
 

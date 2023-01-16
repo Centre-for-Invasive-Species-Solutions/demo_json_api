@@ -6,11 +6,11 @@
 
 
 ![Flower](694_PB241676.jpg)
- *Flower* 
+   *Flower* 
 
 ![Leaves](82274_P1066364.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Rambles over ground](103699_IMG_9660.jpg)
- *Rambles over ground* 
+   *Rambles over ground* 
 

@@ -6,14 +6,14 @@
 
 
 ![Small flowers and fruit](4050_IMG_0737.jpg)
- *Small flowers and fruit* 
+   *Small flowers and fruit* 
 
 ![Twigs end in spines](20064_Lycium-ferocissimum07.jpg)
- *Twigs end in spines* 
+   *Twigs end in spines* 
 
 ![Big, dense bushes](13267_DSC_0049.jpg)
- *Big, dense bushes* 
+   *Big, dense bushes* 
 
 ![Leaves](69410_P1011875.jpg)
- *Leaves* 
+   *Leaves* 
 

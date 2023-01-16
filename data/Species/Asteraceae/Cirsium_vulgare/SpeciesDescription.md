@@ -6,17 +6,17 @@
 
 
 ![Flowers are large](131_PB044573.jpg)
- *Flowers are large* 
+   *Flowers are large* 
 
 ![Juveniles are woolly in winter](3793_P6850276.jpg)
- *Juveniles are woolly in winter* 
+   *Juveniles are woolly in winter* 
 
 ![Juveniles green and flat if not cold](2584_P6840710.jpg)
- *Juveniles green and flat if not cold* 
+   *Juveniles green and flat if not cold* 
 
 ![Can grow large](12422_DSC_0010.jpg)
- *Can grow large* 
+   *Can grow large* 
 
 ![Fluffy seed on standing dead plants](81691_P1044428.jpg)
- *Fluffy seed on standing dead plants* 
+   *Fluffy seed on standing dead plants* 
 

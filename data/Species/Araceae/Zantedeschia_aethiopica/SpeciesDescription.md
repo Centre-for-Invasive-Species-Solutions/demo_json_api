@@ -6,17 +6,17 @@
 
 
 ![Flower](3073_P7054210.jpg)
- *Flower* 
+   *Flower* 
 
 ![Plant](3070_P7054207.jpg)
- *Plant* 
+   *Plant* 
 
 ![Fruit (RG FJ Richardson)](18391_Zantedeschia-aethiopica_0416.jpg)
- *Fruit (RG FJ Richardson)* 
+   *Fruit (RG FJ Richardson)* 
 
 ![Leaves](68317_P1000307.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Infestation in drain](68710_P1000818.jpg)
- *Infestation in drain* 
+   *Infestation in drain* 
 

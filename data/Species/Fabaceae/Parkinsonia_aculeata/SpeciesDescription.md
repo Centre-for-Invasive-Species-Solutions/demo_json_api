@@ -6,20 +6,20 @@
 
 
 ![Foliage with leaflets](9699_P6930684.jpg)
- *Foliage with leaflets* 
+   *Foliage with leaflets* 
 
 ![Flowers](57719_alroyparkiflower1.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Green medium-sized stems](108068_P1300069.jpg)
- *Green medium-sized stems* 
+   *Green medium-sized stems* 
 
 ![Leaflets fall during dry](108108_P1300107.jpg)
- *Leaflets fall during dry* 
+   *Leaflets fall during dry* 
 
 ![Spines on trunk, main branches](57779_Parki_Thorns-Nathan_March_7.jpg)
- *Spines on trunk, main branches* 
+   *Spines on trunk, main branches* 
 
 ![Growth habit](57734_2015_08_11_Parkinsonia_Buchanan_Downs_NT_Portion_2725_Tahnee_Thompson_44.jpg)
- *Growth habit* 
+   *Growth habit* 
 

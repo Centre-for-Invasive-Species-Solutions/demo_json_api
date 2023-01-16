@@ -6,11 +6,11 @@
 
 
 ![Leaves](9398_P6930344.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Infestation on a creek](9394_P6930338.jpg)
- *Infestation on a creek* 
+   *Infestation on a creek* 
 
 ![Flowers](52867_20190908_124015.jpg)
- *Flowers* 
+   *Flowers* 
 

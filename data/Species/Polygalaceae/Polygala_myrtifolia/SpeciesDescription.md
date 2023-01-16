@@ -6,11 +6,11 @@
 
 
 ![Flowers and leaves](13541_051.jpg)
- *Flowers and leaves* 
+   *Flowers and leaves* 
 
 ![Leaves](80909_P1099006.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Growth habit](49489_Polygala-myrtifoila_Discovery-Bay-Conservation-Reserve.jpg)
- *Growth habit* 
+   *Growth habit* 
 

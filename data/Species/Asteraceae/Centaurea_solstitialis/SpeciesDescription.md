@@ -6,11 +6,11 @@
 
 
 ![Flowers](11752_P6940915.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Spindly growth](74451_P7070454.jpg)
- *Spindly growth* 
+   *Spindly growth* 
 
 ![Forms low bushes](11750_P6940913.jpg)
- *Forms low bushes* 
+   *Forms low bushes* 
 

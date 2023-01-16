@@ -6,11 +6,11 @@
 
 
 ![Leaves white underneath](106356_P1267642.jpg)
- *Leaves white underneath* 
+   *Leaves white underneath* 
 
 ![Leaves three veined](9502_P6930465.jpg)
- *Leaves three veined* 
+   *Leaves three veined* 
 
 ![Stems are spiny](107189_P1278531.jpg)
- *Stems are spiny* 
+   *Stems are spiny* 
 

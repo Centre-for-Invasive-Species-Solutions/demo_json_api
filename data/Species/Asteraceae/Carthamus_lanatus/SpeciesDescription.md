@@ -6,14 +6,14 @@
 
 
 ![Thin yellow flowers](11312_P6950607.jpg)
- *Thin yellow flowers* 
+   *Thin yellow flowers* 
 
 ![Leaves thin and spiny](80846_P7100615.jpg)
- *Leaves thin and spiny* 
+   *Leaves thin and spiny* 
 
 ![Early growth is flat](4863_IMGP5781.jpg)
- *Early growth is flat* 
+   *Early growth is flat* 
 
 ![Later growth is upright](11314_P6950609.jpg)
- *Later growth is upright* 
+   *Later growth is upright* 
 

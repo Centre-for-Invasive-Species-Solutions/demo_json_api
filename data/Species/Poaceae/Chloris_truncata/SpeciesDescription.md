@@ -6,14 +6,14 @@
 
 
 ![Low grass with big flowers](9094_P6890365.jpg)
- *Low grass with big flowers* 
+   *Low grass with big flowers* 
 
 ![Flower spikes break off and roll away](9029_P6890276.jpg)
- *Flower spikes break off and roll away* 
+   *Flower spikes break off and roll away* 
 
 ![Young flower spikes are sheathed](3740_P4280201.jpg)
- *Young flower spikes are sheathed* 
+   *Young flower spikes are sheathed* 
 
 ![Leaves](9043_P6890291.jpg)
- *Leaves* 
+   *Leaves* 
 

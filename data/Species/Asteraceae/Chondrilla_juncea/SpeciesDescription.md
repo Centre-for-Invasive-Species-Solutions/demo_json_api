@@ -6,14 +6,14 @@
 
 
 ![Rosette plant when small](31_P4184679.jpg)
- *Rosette plant when small* 
+   *Rosette plant when small* 
 
 ![Grows central flower spike](71360_P7050145.jpg)
- *Grows central flower spike* 
+   *Grows central flower spike* 
 
 ![Yellow flowers on spindly branches](73616__SDI6079.jpg)
- *Yellow flowers on spindly branches* 
+   *Yellow flowers on spindly branches* 
 
 ![Leaves present in wet years](69674_P1022138.jpg)
- *Leaves present in wet years* 
+   *Leaves present in wet years* 
 

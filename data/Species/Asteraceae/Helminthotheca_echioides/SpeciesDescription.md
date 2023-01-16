@@ -5,11 +5,11 @@
 
 
 ![Yellow flowers in spikey clusters](81483_P1044168.jpg)
- *Yellow flowers in spikey clusters* 
+   *Yellow flowers in spikey clusters* 
 
 ![Leaves have stiff hairs](76306_P1097925.jpg)
- *Leaves have stiff hairs* 
+   *Leaves have stiff hairs* 
 
 ![Leaves are rough](81489_P1044174.jpg)
- *Leaves are rough* 
+   *Leaves are rough* 
 

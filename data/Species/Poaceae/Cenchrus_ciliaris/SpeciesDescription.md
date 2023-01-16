@@ -6,11 +6,11 @@
 
 
 ![Often clumpy](9601_P6930573.jpg)
- *Often clumpy* 
+   *Often clumpy* 
 
 ![Flowers](9558_P6930527.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Older leaves smaller and bunchy](97755_P1155611.jpg)
- *Older leaves smaller and bunchy* 
+   *Older leaves smaller and bunchy* 
 

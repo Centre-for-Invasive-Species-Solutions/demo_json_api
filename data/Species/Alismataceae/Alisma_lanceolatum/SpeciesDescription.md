@@ -6,8 +6,8 @@
 
 
 ![Leaves spear-tip shaped](104210_IMG_9892.jpg)
- *Leaves spear-tip shaped* 
+   *Leaves spear-tip shaped* 
 
 ![Flowers small and white](104215_IMG_9898.jpg)
- *Flowers small and white* 
+   *Flowers small and white* 
 

@@ -5,17 +5,17 @@
 
 
 ![Flowers and foliage](74500_P7070503.jpg)
- *Flowers and foliage* 
+   *Flowers and foliage* 
 
 ![Flower](74202_P7070042.jpg)
- *Flower* 
+   *Flower* 
 
 ![Habit](74483_P7070486.jpg)
- *Habit* 
+   *Habit* 
 
 ![Seed pod](74465_P7070468.jpg)
- *Seed pod* 
+   *Seed pod* 
 
 ![Leaves](74206_P7070046.jpg)
- *Leaves* 
+   *Leaves* 
 

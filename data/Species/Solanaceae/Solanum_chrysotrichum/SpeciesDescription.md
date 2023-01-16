@@ -6,14 +6,14 @@
 
 
 ![Golden hairs on leaves](6074_P1230496.jpg)
- *Golden hairs on leaves* 
+   *Golden hairs on leaves* 
 
 ![Woody stems](90885_P1189746.jpg)
- *Woody stems* 
+   *Woody stems* 
 
 ![Large size](6848_IMGP2854.jpg)
- *Large size* 
+   *Large size* 
 
 ![Foliage](90892_P1189753.jpg)
- *Foliage* 
+   *Foliage* 
 

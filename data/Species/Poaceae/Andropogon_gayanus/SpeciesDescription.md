@@ -6,14 +6,14 @@
 
 
 ![Very tall grass (4m +)](100300_P1100817.jpg)
- *Very tall grass (4m +)* 
+   *Very tall grass (4m +)* 
 
 ![Paired inflorescences](100089_P1122237.jpg)
- *Paired inflorescences* 
+   *Paired inflorescences* 
 
 ![White midrib](98043_P1133873.jpg)
- *White midrib* 
+   *White midrib* 
 
 ![Hairy stems](6534_DSCF3773.jpg)
- *Hairy stems* 
+   *Hairy stems* 
 

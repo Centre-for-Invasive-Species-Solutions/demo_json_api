@@ -6,14 +6,14 @@
 
 
 ![Thickets in swamps areas](104600_P1234549.jpg)
- *Thickets in swamps areas* 
+   *Thickets in swamps areas* 
 
 ![Leaves are coarse and long](72341_P7060563.jpg)
- *Leaves are coarse and long* 
+   *Leaves are coarse and long* 
 
 ![May have spittle bugs](105001_P1245166.jpg)
- *May have spittle bugs* 
+   *May have spittle bugs* 
 
 ![Seed pods are round and average sized](64990_P1042580.jpg)
- *Seed pods are round and average sized* 
+   *Seed pods are round and average sized* 
 

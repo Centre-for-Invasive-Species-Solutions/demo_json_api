@@ -5,14 +5,14 @@
 
 
 ![Flowers](73097__DSF3494.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Growth habit](70402_P1033023.jpg)
- *Growth habit* 
+   *Growth habit* 
 
 ![Leaves](73104__DSF3502.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Summer flowers](70424_P1033049.jpg)
- *Summer flowers* 
+   *Summer flowers* 
 

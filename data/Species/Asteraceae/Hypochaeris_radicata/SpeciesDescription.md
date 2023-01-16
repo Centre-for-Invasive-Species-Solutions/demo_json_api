@@ -5,11 +5,11 @@
 
 
 ![Typical plant](2217_P6840400.jpg)
- *Typical plant* 
+   *Typical plant* 
 
 ![Yellow flowers on branching stalks](63603_DSC_7280.jpg)
- *Yellow flowers on branching stalks* 
+   *Yellow flowers on branching stalks* 
 
 ![Seed heads](8313_P6870825.jpg)
- *Seed heads* 
+   *Seed heads* 
 

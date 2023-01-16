@@ -6,14 +6,14 @@
 
 
 ![Fruit](21127_Solanum-linnaeanum15.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Leaf](21124_Solanum-linnaeanum12.jpg)
- *Leaf* 
+   *Leaf* 
 
 ![Foliage](21136_Solanum-linnaeanum08.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Many spines](21121_Solanum-linnaeanum09.jpg)
- *Many spines* 
+   *Many spines* 
 

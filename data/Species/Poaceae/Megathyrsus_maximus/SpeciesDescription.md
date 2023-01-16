@@ -5,14 +5,14 @@
 
 
 ![Large branched panicles](105704_P1256756.jpg)
- *Large branched panicles* 
+   *Large branched panicles* 
 
 ![Leaves can grow from stems](105696_P1256748.jpg)
- *Leaves can grow from stems* 
+   *Leaves can grow from stems* 
 
 ![Young plants grow wide](99408_P1133248.jpg)
- *Young plants grow wide* 
+   *Young plants grow wide* 
 
 ![Old plants, many erect canes](96716_P1167023.jpg)
- *Old plants, many erect canes* 
+   *Old plants, many erect canes* 
 

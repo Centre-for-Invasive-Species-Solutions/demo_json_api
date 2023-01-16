@@ -6,14 +6,14 @@
 
 
 ![Flowers](5376_P6860172.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Foliage](13642_DSC_0040.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Spines](12808_P6960962.jpg)
- *Spines* 
+   *Spines* 
 
 ![Grove of suckers](11865_P6960654.jpg)
- *Grove of suckers* 
+   *Grove of suckers* 
 

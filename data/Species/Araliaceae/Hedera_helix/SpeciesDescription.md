@@ -5,14 +5,14 @@
 
 
 ![Grows on ground and on tree trunks](8413_P6880661.jpg)
- *Grows on ground and on tree trunks* 
+   *Grows on ground and on tree trunks* 
 
 ![Lower leaves are star-shaped](76946_P1108641.jpg)
- *Lower leaves are star-shaped* 
+   *Lower leaves are star-shaped* 
 
 ![Upper leaves are rounded](103892_IMG_9006.jpg)
- *Upper leaves are rounded* 
+   *Upper leaves are rounded* 
 
 ![Flowers are in heads](82368_P1055132.jpg)
- *Flowers are in heads* 
+   *Flowers are in heads* 
 

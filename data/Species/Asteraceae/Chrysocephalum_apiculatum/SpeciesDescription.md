@@ -5,11 +5,11 @@
 
 
 ![Growth form](64423_P1031926.jpg)
- *Growth form* 
+   *Growth form* 
 
 ![Flowers](1196_PA304040.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](3699_P4300588.jpg)
- *Leaves* 
+   *Leaves* 
 

@@ -6,14 +6,14 @@
 
 
 ![Flower - light yellow](5360_P6860155.jpg)
- *Flower - light yellow* 
+   *Flower - light yellow* 
 
 ![Foliage - seedling](105387_P1245594.jpg)
- *Foliage - seedling* 
+   *Foliage - seedling* 
 
 ![Young seed pod](5369_P6860164.jpg)
- *Young seed pod* 
+   *Young seed pod* 
 
 ![Infestation](5044_IMGP5939.jpg)
- *Infestation* 
+   *Infestation* 
 

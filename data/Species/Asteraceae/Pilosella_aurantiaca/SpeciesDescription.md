@@ -5,17 +5,17 @@
 
 
 ![Flowers are red](50169_IMG_8476.jpg)
- *Flowers are red* 
+   *Flowers are red* 
 
 ![Leaves are hairy](50740_IMG_6565.jpg)
- *Leaves are hairy* 
+   *Leaves are hairy* 
 
 ![Infestations spread by runners](50986_IMG_4000.jpg)
- *Infestations spread by runners* 
+   *Infestations spread by runners* 
 
 ![Plant](50685_IMG_4143.jpg)
- *Plant* 
+   *Plant* 
 
 ![Runners - pink stems](50547_IMG_2134.jpg)
- *Runners - pink stems* 
+   *Runners - pink stems* 
 

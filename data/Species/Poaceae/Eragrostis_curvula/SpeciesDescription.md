@@ -6,14 +6,14 @@
 
 
 ![Uniform dull light green](65_P3094115.jpg)
- *Uniform dull light green* 
+   *Uniform dull light green* 
 
 ![Young flowers are dark](68160_P1000130.jpg)
- *Young flowers are dark* 
+   *Young flowers are dark* 
 
 ![Often forms clumps](68210_P1000180.jpg)
- *Often forms clumps* 
+   *Often forms clumps* 
 
 ![Flowers held low near leaves](503_IMG_5578.jpg)
- *Flowers held low near leaves* 
+   *Flowers held low near leaves* 
 

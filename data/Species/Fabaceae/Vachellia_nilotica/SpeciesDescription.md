@@ -6,17 +6,17 @@
 
 
 ![Immature pods](107232_P1278577.jpg)
- *Immature pods* 
+   *Immature pods* 
 
 ![Leaves and spines](107138_P1278479.jpg)
- *Leaves and spines* 
+   *Leaves and spines* 
 
 ![Habit, no cattle](10968_P6930925.jpg)
- *Habit, no cattle* 
+   *Habit, no cattle* 
 
 ![High foliage is pendulus](9371_P6930316.jpg)
- *High foliage is pendulus* 
+   *High foliage is pendulus* 
 
 ![Flowers are yellow](60359_IMG_7090.jpg)
- *Flowers are yellow* 
+   *Flowers are yellow* 
 

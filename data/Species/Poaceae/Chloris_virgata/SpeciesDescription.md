@@ -6,11 +6,11 @@
 
 
 ![Medium-sized with whitish flowers](3733_P4280186.jpg)
- *Medium-sized with whitish flowers* 
+   *Medium-sized with whitish flowers* 
 
 ![Flower spikes](18790_Chloris-virgata03.jpg)
- *Flower spikes* 
+   *Flower spikes* 
 
 ![Leaves](3223_P6093152.jpg)
- *Leaves* 
+   *Leaves* 
 

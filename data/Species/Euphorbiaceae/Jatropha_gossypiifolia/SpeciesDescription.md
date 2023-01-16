@@ -6,20 +6,20 @@
 
 
 ![New growth usually red](54809_IMG_0025.jpg)
- *New growth usually red* 
+   *New growth usually red* 
 
 ![Infestations usually reddish](54496_DSC_0080.jpg)
- *Infestations usually reddish* 
+   *Infestations usually reddish* 
 
 ![green form also occurs](96218_P1178338.jpg)
- *green form also occurs* 
+   *green form also occurs* 
 
 ![leaf stalks have round-tipped hairs](96209_P1178329.jpg)
- *leaf stalks have round-tipped hairs* 
+   *leaf stalks have round-tipped hairs* 
 
 ![Flowers and fruit](60986_Jatropha_gossypiifolia_Jatropha_flwr_fruit_best_LBeames.jpg)
- *Flowers and fruit* 
+   *Flowers and fruit* 
 
 ![Stems are thick](55366_OCT.jpg)
- *Stems are thick* 
+   *Stems are thick* 
 

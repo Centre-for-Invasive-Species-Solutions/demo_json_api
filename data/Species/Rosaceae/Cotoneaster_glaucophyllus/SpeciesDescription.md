@@ -6,11 +6,11 @@
 
 
 ![Ripe fruit](2751_P6840926.jpg)
- *Ripe fruit* 
+   *Ripe fruit* 
 
 ![Flowers](7635_P6870270.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Foliage](79285_P1088214.jpg)
- *Foliage* 
+   *Foliage* 
 

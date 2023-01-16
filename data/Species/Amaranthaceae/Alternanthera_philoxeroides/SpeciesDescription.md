@@ -6,11 +6,11 @@
 
 
 ![Leaves](71036_P1086055.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Flowers on long stalk](71125_P1086160.jpg)
- *Flowers on long stalk* 
+   *Flowers on long stalk* 
 
 ![Hollow stems](11125_P6870499.jpg)
- *Hollow stems* 
+   *Hollow stems* 
 

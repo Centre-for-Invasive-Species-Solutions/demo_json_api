@@ -8,26 +8,26 @@ parvifolius).
 
 
 ![Infested bushland](81210_P1044495.jpg)
- *Infested bushland* 
+   *Infested bushland* 
 
 ![Flower close-up](72012_P1053945.jpg)
- *Flower close-up* 
+   *Flower close-up* 
 
 ![Thorns](63432_P1031155.jpg)
- *Thorns* 
+   *Thorns* 
 
 ![Leaves affected by a rust fungis](82931_P1077870.jpg)
- *Leaves affected by a rust fungis* 
+   *Leaves affected by a rust fungis* 
 
 ![Leaves and fruit in late summer](79239_P1044009.jpg)
- *Leaves and fruit in late summer* 
+   *Leaves and fruit in late summer* 
 
 ![Leaves yellowing before winter](95898_P7120816.jpg)
- *Leaves yellowing before winter* 
+   *Leaves yellowing before winter* 
 
 ![Leaves](8984_P6890204.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Cluster of ripe fruit](81219_P1044594.jpg)
- *Cluster of ripe fruit* 
+   *Cluster of ripe fruit* 
 

@@ -6,17 +6,17 @@
 
 
 ![Fresh and spent flowers](8449_P6880718.jpg)
- *Fresh and spent flowers* 
+   *Fresh and spent flowers* 
 
 ![Leaves often in rows](13209_DSC_01132.jpg)
- *Leaves often in rows* 
+   *Leaves often in rows* 
 
 ![Flowers](68520_P1000541.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaf](65173_P1042809.jpg)
- *Leaf* 
+   *Leaf* 
 
 ![Berries](78649__SDI8497.jpg)
- *Berries* 
+   *Berries* 
 

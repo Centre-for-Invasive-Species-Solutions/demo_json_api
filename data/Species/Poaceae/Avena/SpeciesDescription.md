@@ -6,14 +6,14 @@
 
 
 ![White husks after seed is shed](63814_P1031249.jpg)
- *White husks after seed is shed* 
+   *White husks after seed is shed* 
 
 ![Tall grass](2698_P6840867.jpg)
- *Tall grass* 
+   *Tall grass* 
 
 ![Grass is robust](113195_P1344865.jpg)
- *Grass is robust* 
+   *Grass is robust* 
 
 ![Sseedheads fine and pendulous](62308__SDI1232.jpg)
- *Sseedheads fine and pendulous* 
+   *Sseedheads fine and pendulous* 
 

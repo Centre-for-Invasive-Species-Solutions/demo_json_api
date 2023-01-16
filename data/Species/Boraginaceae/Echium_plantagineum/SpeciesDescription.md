@@ -6,23 +6,23 @@
 
 
 ![Flower](2443_P7116200.jpg)
- *Flower* 
+   *Flower* 
 
 ![White-flowering form](2805_P6840980.jpg)
- *White-flowering form* 
+   *White-flowering form* 
 
 ![Juvenile form](3020_P7095191.jpg)
- *Juvenile form* 
+   *Juvenile form* 
 
 ![Flowers unroll (cymes)](171_P1010998.jpg)
- *Flowers unroll (cymes)* 
+   *Flowers unroll (cymes)* 
 
 ![Leaves become bunchy in summer](3408_P5192078.jpg)
- *Leaves become bunchy in summer* 
+   *Leaves become bunchy in summer* 
 
 ![Late season flowers](19356_Echium-plantagineum13.jpg)
- *Late season flowers* 
+   *Late season flowers* 
 
 ![Infestation](1026_PB044396.jpg)
- *Infestation* 
+   *Infestation* 
 

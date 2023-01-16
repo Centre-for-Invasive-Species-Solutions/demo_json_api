@@ -6,11 +6,11 @@
 
 
 ![Large and broad leaves](5288_P6860289.jpg)
- *Large and broad leaves* 
+   *Large and broad leaves* 
 
 ![Leaves yellow for winter, red berries](68423_P1000406.jpg)
- *Leaves yellow for winter, red berries* 
+   *Leaves yellow for winter, red berries* 
 
 ![Forms curtains of foliage on tree trunks](5291_P6860282.jpg)
- *Forms curtains of foliage on tree trunks* 
+   *Forms curtains of foliage on tree trunks* 
 

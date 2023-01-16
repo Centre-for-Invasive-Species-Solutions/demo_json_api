@@ -5,14 +5,14 @@
 
 
 ![Flower heads](68752_P1000859.jpg)
- *Flower heads* 
+   *Flower heads* 
 
 ![Old heads roll into a ball](65403_P1053070.jpg)
- *Old heads roll into a ball* 
+   *Old heads roll into a ball* 
 
 ![Hairy stem](68751_P1000856.jpg)
- *Hairy stem* 
+   *Hairy stem* 
 
 ![Foliage](69038_P1011429.jpg)
- *Foliage* 
+   *Foliage* 
 

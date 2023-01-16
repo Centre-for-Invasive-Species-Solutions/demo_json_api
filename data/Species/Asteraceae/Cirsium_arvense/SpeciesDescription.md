@@ -6,14 +6,14 @@
 
 
 ![Flowers](18884_Cirsium-arvense08.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](18855_Cirsium-arvense09.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Seed](103601_IMG_9648.jpg)
- *Seed* 
+   *Seed* 
 
 ![Foliage](103504_IMG_8353.jpg)
- *Foliage* 
+   *Foliage* 
 

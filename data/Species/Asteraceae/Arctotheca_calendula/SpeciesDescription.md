@@ -6,17 +6,17 @@
 
 
 ![Flower](1885_P6840063.jpg)
- *Flower* 
+   *Flower* 
 
 ![Flowers](1918_P6840144.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Flower carpet](1907_P6840133.jpg)
- *Flower carpet* 
+   *Flower carpet* 
 
 ![Small plant](1961_P6840308.jpg)
- *Small plant* 
+   *Small plant* 
 
 ![Late season foliage](62649__DSC2606.jpg)
- *Late season foliage* 
+   *Late season foliage* 
 

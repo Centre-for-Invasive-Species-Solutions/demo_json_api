@@ -5,11 +5,11 @@
 
 
 ![Large leaves near ground](69691_P1022160.jpg)
- *Large leaves near ground* 
+   *Large leaves near ground* 
 
 ![Sprey of yellow flowers](83031_P1088071.jpg)
- *Sprey of yellow flowers* 
+   *Sprey of yellow flowers* 
 
 ![Growth habit](62411__DSF2719.jpg)
- *Growth habit* 
+   *Growth habit* 
 

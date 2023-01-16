@@ -5,14 +5,14 @@
 
 
 ![Divided leaves](3139_P6163468.jpg)
- *Divided leaves* 
+   *Divided leaves* 
 
 ![Flowers from white to red](8158_P6880211.jpg)
- *Flowers from white to red* 
+   *Flowers from white to red* 
 
 ![Leaf undersurface white](3140_P6163469.jpg)
- *Leaf undersurface white* 
+   *Leaf undersurface white* 
 
 ![Flower close-up](3137_P6163466.jpg)
- *Flower close-up* 
+   *Flower close-up* 
 

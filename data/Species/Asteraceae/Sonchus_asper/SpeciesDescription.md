@@ -6,17 +6,17 @@
 
 
 ![Leaves prickly](1530_PA121641.jpg)
- *Leaves prickly* 
+   *Leaves prickly* 
 
 ![Stressed growth red](95832_P7130061.jpg)
- *Stressed growth red* 
+   *Stressed growth red* 
 
 ![Thick red stems](63772_DSC_7490.jpg)
- *Thick red stems* 
+   *Thick red stems* 
 
 ![Flowers](21222_Sonchus-asper12.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Habit](2179_P6840350.jpg)
- *Habit* 
+   *Habit* 
 

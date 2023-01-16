@@ -6,20 +6,20 @@
 
 
 ![Big flowers, small drought leaves](546_PC152405.jpg)
- *Big flowers, small drought leaves* 
+   *Big flowers, small drought leaves* 
 
 ![Broad woolly leaves](2789_P6840964.jpg)
- *Broad woolly leaves* 
+   *Broad woolly leaves* 
 
 ![Woolly all over](8250_P6880305.jpg)
- *Woolly all over* 
+   *Woolly all over* 
 
 ![Tall thickets](69641_P1022243.jpg)
- *Tall thickets* 
+   *Tall thickets* 
 
 ![Growth form](8248_P6880303.jpg)
- *Growth form* 
+   *Growth form* 
 
 ![Standing remains](79811_P7100144.jpg)
- *Standing remains* 
+   *Standing remains* 
 

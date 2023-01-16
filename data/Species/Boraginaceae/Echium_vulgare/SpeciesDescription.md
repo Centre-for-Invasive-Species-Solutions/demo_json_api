@@ -5,17 +5,17 @@
 
 
 ![Blue flowers](158_P1020004.jpg)
- *Blue flowers* 
+   *Blue flowers* 
 
 ![Early rosette leaves](806_PB200983.jpg)
- *Early rosette leaves* 
+   *Early rosette leaves* 
 
 ![Flower close-up](1208_PA304085.jpg)
- *Flower close-up* 
+   *Flower close-up* 
 
 ![Flowers and stems](8194_P6880230.jpg)
- *Flowers and stems* 
+   *Flowers and stems* 
 
 ![Flower on old plant](74040_P7060826.jpg)
- *Flower on old plant* 
+   *Flower on old plant* 
 

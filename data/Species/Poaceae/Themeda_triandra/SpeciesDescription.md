@@ -5,14 +5,14 @@
 
 
 ![A flower head](72927__SDI5372.jpg)
- *A flower head* 
+   *A flower head* 
 
 ![Flower heads](97084_P1167569.jpg)
- *Flower heads* 
+   *Flower heads* 
 
 ![Habit](7454_DSCF5524.jpg)
- *Habit* 
+   *Habit* 
 
 ![Foliage](6726_IMGP9041.jpg)
- *Foliage* 
+   *Foliage* 
 

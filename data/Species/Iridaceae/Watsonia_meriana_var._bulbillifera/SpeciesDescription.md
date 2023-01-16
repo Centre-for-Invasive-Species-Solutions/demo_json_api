@@ -6,17 +6,17 @@
 
 
 ![Flower](4774_IMG_2692.jpg)
- *Flower* 
+   *Flower* 
 
 ![Flowers](68988_P1011361.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](68990_P1011363.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Winter leaves](83158_P1088489.jpg)
- *Winter leaves* 
+   *Winter leaves* 
 
 ![Habit](49731_Watsonia-meriana-var-bulbillifera_Branxholme.jpg)
- *Habit* 
+   *Habit* 
 

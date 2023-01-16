@@ -6,17 +6,17 @@
 
 
 ![Habit](13637_Oxford_Falls_Sydney_8.jpg)
- *Habit* 
+   *Habit* 
 
 ![Seed pods](13636_Oxford_Falls_Sydney_7.jpg)
- *Seed pods* 
+   *Seed pods* 
 
 ![Fruit](88116_P1233681.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Leaves](101386_P1218779.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Flowers and new leaf](6877_IMGP2095.jpg)
- *Flowers and new leaf* 
+   *Flowers and new leaf* 
 

@@ -5,14 +5,14 @@
 
 
 ![Flowers are white, then yellow](8696_P6880843.jpg)
- *Flowers are white, then yellow* 
+   *Flowers are white, then yellow* 
 
 ![Leaves](74945_P1086701.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Infestation](13224_ACTFC.jpg)
- *Infestation* 
+   *Infestation* 
 
 ![Rambles over other plants](8707_P6880857.jpg)
- *Rambles over other plants* 
+   *Rambles over other plants* 
 

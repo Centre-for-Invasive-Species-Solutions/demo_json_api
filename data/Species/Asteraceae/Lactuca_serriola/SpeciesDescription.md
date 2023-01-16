@@ -6,20 +6,20 @@
 
 
 ![Midrib and stalk have soft spines](19894_Lactuca-serriola10.jpg)
- *Midrib and stalk have soft spines* 
+   *Midrib and stalk have soft spines* 
 
 ![Leaves often in a flat plane](4872_IMGP6478.jpg)
- *Leaves often in a flat plane* 
+   *Leaves often in a flat plane* 
 
 ![Big inflorescence held high](11770_P6940934.jpg)
- *Big inflorescence held high* 
+   *Big inflorescence held high* 
 
 ![Yellow flowers](12796_P6960966.jpg)
- *Yellow flowers* 
+   *Yellow flowers* 
 
 ![Lower leaves usually deeply lobed](105857_P1266970.jpg)
- *Lower leaves usually deeply lobed* 
+   *Lower leaves usually deeply lobed* 
 
 ![Upper leaves usually smooth edged](70326_P1022907.jpg)
- *Upper leaves usually smooth edged* 
+   *Upper leaves usually smooth edged* 
 

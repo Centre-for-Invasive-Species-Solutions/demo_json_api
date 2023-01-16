@@ -6,11 +6,11 @@
 
 
 ![Fruit](57665_pp_robusta_12012.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Close up](49321_Opuntia-robusta_Terrick-Terrick-NP-3.jpg)
- *Close up* 
+   *Close up* 
 
 ![Growth habit](108521_P1099965.jpg)
- *Growth habit* 
+   *Growth habit* 
 

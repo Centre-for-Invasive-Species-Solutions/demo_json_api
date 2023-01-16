@@ -5,11 +5,11 @@
 
 
 ![Small plants](61861_P1020685.jpg)
- *Small plants* 
+   *Small plants* 
 
 ![Leaves](61794_P1020526.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Seed pods](61815_P1020559.jpg)
- *Seed pods* 
+   *Seed pods* 
 

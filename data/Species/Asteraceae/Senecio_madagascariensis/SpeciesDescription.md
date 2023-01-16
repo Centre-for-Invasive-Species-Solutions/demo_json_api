@@ -6,17 +6,17 @@
 
 
 ![Flowers](65836_P1053494.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves often deeply lobed](107361_P1278718.jpg)
- *Leaves often deeply lobed* 
+   *Leaves often deeply lobed* 
 
 ![Often leaves without lobes](13719_Seaforth_Sydney_2.jpg)
- *Often leaves without lobes* 
+   *Often leaves without lobes* 
 
 ![Flowers profusely](87966_P1233514.jpg)
- *Flowers profusely* 
+   *Flowers profusely* 
 
 ![Habit](107401_P1278760.jpg)
- *Habit* 
+   *Habit* 
 

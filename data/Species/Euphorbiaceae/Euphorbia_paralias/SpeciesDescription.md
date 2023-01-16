@@ -6,11 +6,11 @@
 
 
 ![Thin plants with round flowers](6666_DSCF8860.jpg)
- *Thin plants with round flowers* 
+   *Thin plants with round flowers* 
 
 ![Infestation on a beach](6667_DSCF8960.jpg)
- *Infestation on a beach* 
+   *Infestation on a beach* 
 
 ![On a seawall](81949_P1055240.jpg)
- *On a seawall* 
+   *On a seawall* 
 

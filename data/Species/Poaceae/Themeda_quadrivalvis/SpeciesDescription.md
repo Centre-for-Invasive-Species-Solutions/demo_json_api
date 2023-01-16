@@ -6,14 +6,14 @@
 
 
 ![Flower/seed head bunchy](5078_IMGP8491.jpg)
- *Flower/seed head bunchy* 
+   *Flower/seed head bunchy* 
 
 ![Dies and turns orange](7706_DSCF0889.jpg)
- *Dies and turns orange* 
+   *Dies and turns orange* 
 
 ![Habit](5079_IMGP8490.jpg)
- *Habit* 
+   *Habit* 
 
 ![Young shoot](6302_IMGP8502.jpg)
- *Young shoot* 
+   *Young shoot* 
 

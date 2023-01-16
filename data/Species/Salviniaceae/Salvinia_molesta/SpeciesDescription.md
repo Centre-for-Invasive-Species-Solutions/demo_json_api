@@ -6,11 +6,11 @@
 
 
 ![Mature plant](6553_IMGP0361.jpg)
- *Mature plant* 
+   *Mature plant* 
 
 ![Young plant in reeds](98249_P1144142.jpg)
- *Young plant in reeds* 
+   *Young plant in reeds* 
 
 ![Habit](98184_P1144050.jpg)
- *Habit* 
+   *Habit* 
 

@@ -6,11 +6,11 @@
 
 
 ![Flowers - light yellow](20632_Raphanus-raphanistrum07.jpg)
- *Flowers - light yellow* 
+   *Flowers - light yellow* 
 
 ![Leaves](39889_DSCF1880.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Habit](20640_Raphanus-raphanistrum14.jpg)
- *Habit* 
+   *Habit* 
 

@@ -5,14 +5,14 @@
 
 
 ![Young plants](62441__DSC2211.jpg)
- *Young plants* 
+   *Young plants* 
 
 ![Flowering plants](73939_P7060663.jpg)
- *Flowering plants* 
+   *Flowering plants* 
 
 ![Dead flowers - winter](80838_P7100652.jpg)
- *Dead flowers - winter* 
+   *Dead flowers - winter* 
 
 ![Flowers](3909_925_P4270111.jpg)
- *Flowers* 
+   *Flowers* 
 

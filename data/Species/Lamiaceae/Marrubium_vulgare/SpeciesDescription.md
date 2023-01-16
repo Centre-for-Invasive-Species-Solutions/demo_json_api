@@ -6,14 +6,14 @@
 
 
 ![Leaves have crumpled look](62081__SDI0855.jpg)
- *Leaves have crumpled look* 
+   *Leaves have crumpled look* 
 
 ![Flower are in round heads](72344_P7060036.jpg)
- *Flower are in round heads* 
+   *Flower are in round heads* 
 
 ![Growth habit](61913_P1020769.jpg)
- *Growth habit* 
+   *Growth habit* 
 
 ![Infestation](13290_DSC_0064.jpg)
- *Infestation* 
+   *Infestation* 
 

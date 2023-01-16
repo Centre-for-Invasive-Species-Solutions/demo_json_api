@@ -6,14 +6,14 @@
 
 
 ![Flowers are an intense yellow](108277_P1300415.jpg)
- *Flowers are an intense yellow* 
+   *Flowers are an intense yellow* 
 
 ![Mid-rib is white](108281_P1300419.jpg)
- *Mid-rib is white* 
+   *Mid-rib is white* 
 
 ![rosette when small](119340_P1252915.jpg)
- *rosette when small* 
+   *rosette when small* 
 
 ![0.5 m tall when mature](123237_P1307272.jpg)
- *0.5 m tall when mature* 
+   *0.5 m tall when mature* 
 

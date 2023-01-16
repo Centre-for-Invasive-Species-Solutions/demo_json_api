@@ -6,14 +6,14 @@
 
 
 ![3-pointed spines](21432_Xanthium-spinosum09.jpg)
- *3-pointed spines* 
+   *3-pointed spines* 
 
 ![Thin leaves](73735_DSCF1107.jpg)
- *Thin leaves* 
+   *Thin leaves* 
 
 ![Habit](21434_Xanthium-spinosum11.jpg)
- *Habit* 
+   *Habit* 
 
 ![Immature fruit](21458_Xanthium-spinosum13.jpg)
- *Immature fruit* 
+   *Immature fruit* 
 

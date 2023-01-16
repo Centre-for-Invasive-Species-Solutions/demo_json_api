@@ -6,14 +6,14 @@
 
 
 ![Leaves and berries](88310_P1233882.jpg)
- *Leaves and berries* 
+   *Leaves and berries* 
 
 ![Flowers](64995_P1042587.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Forms dense cover over ground](88669_P1222932.jpg)
- *Forms dense cover over ground* 
+   *Forms dense cover over ground* 
 
 ![Leaves small and surround stems](104699_P1234749.jpg)
- *Leaves small and surround stems* 
+   *Leaves small and surround stems* 
 

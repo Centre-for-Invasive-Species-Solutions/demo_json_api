@@ -6,14 +6,14 @@
 
 
 ![Flowers are golden yellow](8579_P6880536.jpg)
- *Flowers are golden yellow* 
+   *Flowers are golden yellow* 
 
 ![Seedpods are brown](80842_P7100614.jpg)
- *Seedpods are brown* 
+   *Seedpods are brown* 
 
 ![Infested areas are light brown](67293_P7080819.jpg)
- *Infested areas are light brown* 
+   *Infested areas are light brown* 
 
 ![Overwinters as a prostrate herb](3210_P6103223.jpg)
- *Overwinters as a prostrate herb* 
+   *Overwinters as a prostrate herb* 
 

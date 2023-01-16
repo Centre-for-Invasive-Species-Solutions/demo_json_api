@@ -6,14 +6,14 @@
 
 
 ![Seed pods are hairy](97870_P1155759.jpg)
- *Seed pods are hairy* 
+   *Seed pods are hairy* 
 
 ![Compound leaves taper](97851_P1155740.jpg)
- *Compound leaves taper* 
+   *Compound leaves taper* 
 
 ![Forms large bushes](100254_P1122446.jpg)
- *Forms large bushes* 
+   *Forms large bushes* 
 
 ![Flowers](55991_flower-P1000746.jpg)
- *Flowers* 
+   *Flowers* 
 

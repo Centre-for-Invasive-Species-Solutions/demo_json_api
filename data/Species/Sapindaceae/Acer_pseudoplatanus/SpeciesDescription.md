@@ -5,14 +5,14 @@
 
 
 ![Leaves](82969_P1077947.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Seed clusters](82998_P1077981.jpg)
- *Seed clusters* 
+   *Seed clusters* 
 
 ![Trunk](82999_P1077982.jpg)
- *Trunk* 
+   *Trunk* 
 
 ![Foliage](82995_P1077978.jpg)
- *Foliage* 
+   *Foliage* 
 

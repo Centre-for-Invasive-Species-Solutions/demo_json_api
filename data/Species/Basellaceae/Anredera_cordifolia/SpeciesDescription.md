@@ -6,11 +6,11 @@
 
 
 ![Glossy leaves](68845_P1000944.jpg)
- *Glossy leaves* 
+   *Glossy leaves* 
 
 ![Spent flower spikes](95352_P7130524.jpg)
- *Spent flower spikes* 
+   *Spent flower spikes* 
 
 ![Aerial tubers on vine stems](89780_P1211548.jpg)
- *Aerial tubers on vine stems* 
+   *Aerial tubers on vine stems* 
 

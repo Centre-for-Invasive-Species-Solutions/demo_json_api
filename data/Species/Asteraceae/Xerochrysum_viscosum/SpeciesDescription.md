@@ -5,14 +5,14 @@
 
 
 ![Flowers - drought](959_PB064810.jpg)
- *Flowers - drought* 
+   *Flowers - drought* 
 
 ![Leaves](64472_P1031953.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Floral carpet](71543_P7050291.jpg)
- *Floral carpet* 
+   *Floral carpet* 
 
 ![Flowers - wet year](71447_P7050186.jpg)
- *Flowers - wet year* 
+   *Flowers - wet year* 
 

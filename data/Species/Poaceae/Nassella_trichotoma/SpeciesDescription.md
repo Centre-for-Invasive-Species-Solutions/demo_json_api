@@ -6,20 +6,20 @@
 
 
 ![Grazed plants are like stiff brushes](1708_P9210579.jpg)
- *Grazed plants are like stiff brushes* 
+   *Grazed plants are like stiff brushes* 
 
 ![Mature plants - rounded tussocks](3044_P7085008.jpg)
- *Mature plants - rounded tussocks* 
+   *Mature plants - rounded tussocks* 
 
 ![Flowers and seed are very fine](13330_DSC_0021.jpg)
- *Flowers and seed are very fine* 
+   *Flowers and seed are very fine* 
 
 ![Seed close-up](3220_P6103238.jpg)
- *Seed close-up* 
+   *Seed close-up* 
 
 ![Infested pasture](3024_P7095216.jpg)
- *Infested pasture* 
+   *Infested pasture* 
 
 ![Weedicide treated plants are orange](4096_DSCN7945.jpg)
- *Weedicide treated plants are orange* 
+   *Weedicide treated plants are orange* 
 

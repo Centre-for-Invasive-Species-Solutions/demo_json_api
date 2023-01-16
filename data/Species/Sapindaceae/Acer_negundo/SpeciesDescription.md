@@ -6,17 +6,17 @@
 
 
 ![compound leaves](4768_IMG_2568.jpg)
- *compound leaves* 
+   *compound leaves* 
 
 ![green seed](9074_P6890332.jpg)
- *green seed* 
+   *green seed* 
 
 ![mature seed](14423_P6980433.jpg)
- *mature seed* 
+   *mature seed* 
 
 ![Foliage yellowing before falling](14420_P6980430.jpg)
- *Foliage yellowing before falling* 
+   *Foliage yellowing before falling* 
 
 ![trunk](18410_Acer-negundo14.jpg)
- *trunk* 
+   *trunk* 
 

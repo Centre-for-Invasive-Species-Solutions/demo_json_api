@@ -6,14 +6,14 @@
 
 
 ![Long spines and red pea flowers](140286_Alhagi_maurorum_toqu15_CC_89731670.jpeg)
- *Long spines and red pea flowers* 
+   *Long spines and red pea flowers* 
 
 ![Reduced leaves](140285_Alhagi_maurorum_omaralhalabi_CC-BY-NC_92028541.jpeg)
- *Reduced leaves* 
+   *Reduced leaves* 
 
 ![Foliage is fine and dense](140300_Alhagi_maurorum_mocamba70_CC-BY-NC_54086148.jpeg)
- *Foliage is fine and dense* 
+   *Foliage is fine and dense* 
 
 ![Bushy growth form](18260_Alhagi-maurorum_2496.jpg)
- *Bushy growth form* 
+   *Bushy growth form* 
 

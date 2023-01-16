@@ -6,14 +6,14 @@
 
 
 ![Flower head](12553_Maribyrnong_River_Avondale_Heights_Melb_3.jpg)
- *Flower head* 
+   *Flower head* 
 
 ![Foliage](19162_Cynara-cardunculus01.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Leaf](48083_Cynara-cardunculus_Tarrangower-2.jpg)
- *Leaf* 
+   *Leaf* 
 
 ![Growth habit](19178_Cynara-cardunculus17.jpg)
- *Growth habit* 
+   *Growth habit* 
 

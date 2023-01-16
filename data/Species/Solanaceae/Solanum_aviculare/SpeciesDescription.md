@@ -5,11 +5,11 @@
 
 
 ![Flower](14625_P6990436.jpg)
- *Flower* 
+   *Flower* 
 
 ![Foliage](14626_P6990437.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Juvenile leaves](61532_P1020028.jpg)
- *Juvenile leaves* 
+   *Juvenile leaves* 
 

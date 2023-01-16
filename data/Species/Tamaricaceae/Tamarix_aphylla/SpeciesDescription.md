@@ -6,17 +6,17 @@
 
 
 ![Leaves often grey](7055_IMGP3686.jpg)
- *Leaves often grey* 
+   *Leaves often grey* 
 
 ![Spreys of small pink flowers](5617_IMG_0193.jpg)
- *Spreys of small pink flowers* 
+   *Spreys of small pink flowers* 
 
 ![Medium tree](7052_IMGP3683.jpg)
- *Medium tree* 
+   *Medium tree* 
 
 ![Trunk](59819_Athel_pine_bark_Sandy_Leighton.jpg)
- *Trunk* 
+   *Trunk* 
 
 ![Leaves are segmented](21306_Tamarix-aphylla05.jpg)
- *Leaves are segmented* 
+   *Leaves are segmented* 
 

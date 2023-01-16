@@ -6,23 +6,23 @@
 
 
 ![Leaflets](98396_P1144328.jpg)
- *Leaflets* 
+   *Leaflets* 
 
 ![Compound leaves](98404_P1144339.jpg)
- *Compound leaves* 
+   *Compound leaves* 
 
 ![Foliage](98549_P1144523.jpg)
- *Foliage* 
+   *Foliage* 
 
 ![Bark - small stem](98376_P1144301.jpg)
- *Bark - small stem* 
+   *Bark - small stem* 
 
 ![Flowers](95460_P1178735.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Fruit](9590_P6930559.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Trunk](11419_P6940395.jpg)
- *Trunk* 
+   *Trunk* 
 

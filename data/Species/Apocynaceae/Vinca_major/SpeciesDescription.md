@@ -6,14 +6,14 @@
 
 
 ![Flowers](4114_P8247870.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](8742_P6880902.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Infestation](13880_DSC_0131.jpg)
- *Infestation* 
+   *Infestation* 
 
 ![Foliage](5378_P6860174.jpg)
- *Foliage* 
+   *Foliage* 
 

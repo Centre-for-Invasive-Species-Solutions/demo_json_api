@@ -6,14 +6,14 @@
 
 
 ![immature fruit](91003_P1199888.jpg)
- *immature fruit* 
+   *immature fruit* 
 
 ![foliage](93796_P1197402.jpg)
- *foliage* 
+   *foliage* 
 
 ![ripe fruit are black](6700_IMGP8053.jpg)
- *ripe fruit are black* 
+   *ripe fruit are black* 
 
 ![a small understorey plant](6702_IMGP8065.jpg)
- *a small understorey plant* 
+   *a small understorey plant* 
 

@@ -6,17 +6,17 @@
 
 
 ![Large flower, coloured spines](69268_P1011672.jpg)
- *Large flower, coloured spines* 
+   *Large flower, coloured spines* 
 
 ![Dark buds](69286_P1011691.jpg)
- *Dark buds* 
+   *Dark buds* 
 
 ![Winged stems](69284_P1011689.jpg)
- *Winged stems* 
+   *Winged stems* 
 
 ![Small leaves, very spiny](74019_P7060765.jpg)
- *Small leaves, very spiny* 
+   *Small leaves, very spiny* 
 
 ![Growth habit](69289_P1011700.jpg)
- *Growth habit* 
+   *Growth habit* 
 

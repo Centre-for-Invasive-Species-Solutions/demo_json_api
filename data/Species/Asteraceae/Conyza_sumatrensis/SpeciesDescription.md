@@ -7,11 +7,11 @@
 
 
 ![Larger leaves](105414_P1245625.jpg)
- *Larger leaves* 
+   *Larger leaves* 
 
 ![White silk on seeds](104813_P1234903.jpg)
- *White silk on seeds* 
+   *White silk on seeds* 
 
 ![Can get tall](10811_P6950405.jpg)
- *Can get tall* 
+   *Can get tall* 
 

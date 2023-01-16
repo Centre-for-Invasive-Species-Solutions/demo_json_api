@@ -6,11 +6,11 @@
 
 
 ![Growth habit](74352_P7070266.jpg)
- *Growth habit* 
+   *Growth habit* 
 
 ![Leaves are wavy](74379_P7070285.jpg)
- *Leaves are wavy* 
+   *Leaves are wavy* 
 
 ![Flowers unroll](44_IMG_6699.jpg)
- *Flowers unroll* 
+   *Flowers unroll* 
 

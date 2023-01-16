@@ -5,14 +5,14 @@
 
 
 ![Flowers are whitish](98838_P1144935.jpg)
- *Flowers are whitish* 
+   *Flowers are whitish* 
 
 ![Grass dies in dry season](98823_P1144895.jpg)
- *Grass dies in dry season* 
+   *Grass dies in dry season* 
 
 ![Flowers are fluffy](100325_P1100839.jpg)
- *Flowers are fluffy* 
+   *Flowers are fluffy* 
 
 ![Stems are hairless](100327_P1100841.jpg)
- *Stems are hairless* 
+   *Stems are hairless* 
 

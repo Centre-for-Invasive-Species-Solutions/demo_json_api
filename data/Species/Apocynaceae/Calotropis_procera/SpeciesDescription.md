@@ -6,14 +6,14 @@
 
 
 ![Flowers](87453_P1174410.jpg)
- *Flowers* 
+   *Flowers* 
 
 ![Leaves](96130_P1178190.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Growth habit](96395_P1156616.jpg)
- *Growth habit* 
+   *Growth habit* 
 
 ![Seed pod and seeds](52472_Emerging_seeds1_ChrisBrown.jpg)
- *Seed pod and seeds* 
+   *Seed pod and seeds* 
 

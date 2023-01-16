@@ -6,11 +6,11 @@
 
 
 ![Fruit](2965_P7105426.jpg)
- *Fruit* 
+   *Fruit* 
 
 ![Yellow flowers](20411_Opuntia-stricta06.jpg)
- *Yellow flowers* 
+   *Yellow flowers* 
 
 ![Low growth habit](105909_P1267026.jpg)
- *Low growth habit* 
+   *Low growth habit* 
 

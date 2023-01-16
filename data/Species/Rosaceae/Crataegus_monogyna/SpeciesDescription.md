@@ -6,14 +6,14 @@
 
 
 ![Leaves and ripe fruit](12539_DSC_0217.jpg)
- *Leaves and ripe fruit* 
+   *Leaves and ripe fruit* 
 
 ![Small tree in flower](12529_DSC_0004.jpg)
- *Small tree in flower* 
+   *Small tree in flower* 
 
 ![Leafless tree in fruit](14395_P6980396.jpg)
- *Leafless tree in fruit* 
+   *Leafless tree in fruit* 
 
 ![Flowers on a twig](63376_P1031070.jpg)
- *Flowers on a twig* 
+   *Flowers on a twig* 
 

@@ -7,8 +7,8 @@
 
 
 ![Fluffy brown seed](103753_IMG_9715.jpg)
- *Fluffy brown seed* 
+   *Fluffy brown seed* 
 
 ![Leaves green, fine](103714_IMG_8556.jpg)
- *Leaves green, fine* 
+   *Leaves green, fine* 
 

@@ -6,8 +6,8 @@
 
 
 ![Leaves](102775_P1230075.jpg)
- *Leaves* 
+   *Leaves* 
 
 ![Foliage](102782_P1230413.jpg)
- *Foliage* 
+   *Foliage* 
 

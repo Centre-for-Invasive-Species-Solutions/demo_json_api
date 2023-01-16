@@ -6,11 +6,11 @@
 
 
 ![Ferny leaves](52358_underwater_leaves.jpg)
- *Ferny leaves* 
+   *Ferny leaves* 
 
 ![Flower](18736_Cabomba-caroliniana05.jpg)
- *Flower* 
+   *Flower* 
 
 ![Infestation](52279_Cabomba_habit1.jpg)
- *Infestation* 
+   *Infestation* 
 

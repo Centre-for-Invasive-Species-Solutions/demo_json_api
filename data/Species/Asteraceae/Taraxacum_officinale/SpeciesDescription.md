@@ -5,14 +5,14 @@
 
 
 ![Leaves often saw-toothed](1688_P9210475.jpg)
- *Leaves often saw-toothed* 
+   *Leaves often saw-toothed* 
 
 ![Flowers relatively large](3119_P6163437.jpg)
- *Flowers relatively large* 
+   *Flowers relatively large* 
 
 ![Seed](35983_p-2113-dandilion2.jpg)
- *Seed* 
+   *Seed* 
 
 ![One flower per stalk](61992__DSF2451.jpg)
- *One flower per stalk* 
+   *One flower per stalk* 
 

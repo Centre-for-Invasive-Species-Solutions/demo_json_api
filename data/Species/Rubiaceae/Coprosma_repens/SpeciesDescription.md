@@ -6,14 +6,14 @@
 
 
 ![Dense bush](4609_IMG_0058.jpg)
- *Dense bush* 
+   *Dense bush* 
 
 ![Shiny leaves](80504_P1055151.jpg)
- *Shiny leaves* 
+   *Shiny leaves* 
 
 ![Small berries](79247_P1088228.jpg)
- *Small berries* 
+   *Small berries* 
 
 ![Red when ripe](80519_P1055355.jpg)
- *Red when ripe* 
+   *Red when ripe* 
 

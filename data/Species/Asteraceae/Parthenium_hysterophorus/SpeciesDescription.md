@@ -6,17 +6,17 @@
 
 
 ![Leaf detail](108288_P1300423.jpg)
- *Leaf detail* 
+   *Leaf detail* 
 
 ![Groved stem](108290_P1300425.jpg)
- *Groved stem* 
+   *Groved stem* 
 
 ![Flowers small, five cornered and white](108383_P1300489.jpg)
- *Flowers small, five cornered and white* 
+   *Flowers small, five cornered and white* 
 
 ![Seedling](108462_P1300578.jpg)
- *Seedling* 
+   *Seedling* 
 
 ![Growth habit](58775_Parthenium_plant.jpg)
- *Growth habit* 
+   *Growth habit* 
 

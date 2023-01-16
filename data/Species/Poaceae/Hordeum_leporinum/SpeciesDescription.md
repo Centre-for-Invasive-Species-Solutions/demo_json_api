@@ -6,11 +6,11 @@
 
 
 ![Wheat-like heads](3193_P6103186.jpg)
- *Wheat-like heads* 
+   *Wheat-like heads* 
 
 ![Very short grass](4707_IMG_0945.jpg)
- *Very short grass* 
+   *Very short grass* 
 
 ![Grows in Spring, dies in Summer](34483_DSCF0415.jpg)
- *Grows in Spring, dies in Summer* 
+   *Grows in Spring, dies in Summer* 
 

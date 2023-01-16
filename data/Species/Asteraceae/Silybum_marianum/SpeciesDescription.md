@@ -6,17 +6,17 @@
 
 
 ![Variegated leaves](62078__SDI0851.jpg)
- *Variegated leaves* 
+   *Variegated leaves* 
 
 ![Flower](8942_P6890156.jpg)
- *Flower* 
+   *Flower* 
 
 ![Forms tall thickets](8954_P6890168.jpg)
- *Forms tall thickets* 
+   *Forms tall thickets* 
 
 ![Infestation](69320_P1011731.jpg)
- *Infestation* 
+   *Infestation* 
 
 ![Rosette when young](21081_Silybum-marianum20.jpg)
- *Rosette when young* 
+   *Rosette when young* 
 
