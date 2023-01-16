@@ -13,6 +13,6 @@
 ![Upper leaves are rounded](103892_IMG_9006.jpg)
  *Upper leaves are rounded* 
 
-![Flowers are in heads](82368_P1055132.jpg)
+![Flowers are in heads](82368_P1055132.jpg)  
  *Flowers are in heads* 
 
