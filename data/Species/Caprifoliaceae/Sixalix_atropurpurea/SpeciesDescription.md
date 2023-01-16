@@ -1,6 +1,7 @@
 ## Caprifoliaceae
 # Sixalix atropurpurea
- **Plant Form** Erect herb. **Size** Up to 60 cm.
+
+**Plant Form** Erect herb. **Size** Up to 60 cm.
 
 
 ![Flowers and foliage](74500_P7070503.jpg)

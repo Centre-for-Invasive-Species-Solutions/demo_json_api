@@ -1,6 +1,7 @@
 ## Cactaceae
 # Opuntia puberula
- **Plant Form** Erect spreading multi stemmed shrub. **Size** Up to 2 m tall.
+
+**Plant Form** Erect spreading multi stemmed shrub. **Size** Up to 2 m tall.
 
 
 ![Flowers](20366_Opuntia-puberula06.jpg)

@@ -1,6 +1,7 @@
 ## Asteraceae
 # Sonchus oleraceus
- **Plant Form** Annual rosette herb. **Size** 30cm to 1.1m tall.
+
+**Plant Form** Annual rosette herb. **Size** 30cm to 1.1m tall.
 
 
 ![Leaf tips](108391_P1300499.jpg)

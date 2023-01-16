@@ -1,6 +1,8 @@
 ## Asteraceae
 # Centaurea calcitrapa
- **Plant Form** Annual shrubby herb. **Size** Up to 1m tall.
+**common names:** star thistle
+
+**Plant Form** Annual shrubby herb. **Size** Up to 1m tall.
 
 
 ![Pink flowers](11294_P6950589.jpg)

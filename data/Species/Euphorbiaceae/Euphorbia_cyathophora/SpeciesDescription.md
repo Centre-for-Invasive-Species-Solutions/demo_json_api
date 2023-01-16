@@ -1,6 +1,7 @@
 ## Euphorbiaceae
 # Euphorbia cyathophora
- **Plant Form** Erect annual herb. **Size** Up to 90cm tall.
+
+**Plant Form** Erect annual herb. **Size** Up to 90cm tall.
 
 
 ![Red leaves near flowers](4952_IMGP6413.jpg)

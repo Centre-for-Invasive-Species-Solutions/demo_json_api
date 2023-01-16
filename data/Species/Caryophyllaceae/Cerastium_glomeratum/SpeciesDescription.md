@@ -1,6 +1,7 @@
 ## Caryophyllaceae
 # Cerastium glomeratum
- **Plant Form** Annual herb. **Size** Up to 30cm.
+
+**Plant Form** Annual herb. **Size** Up to 30cm.
 
 
 ![Small flowers barely open](62498__DSC2369.jpg)

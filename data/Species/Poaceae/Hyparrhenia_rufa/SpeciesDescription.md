@@ -1,6 +1,8 @@
 ## Poaceae
 # Hyparrhenia rufa
- **Plant Form** Perennial tufted grass. **Size** Up to 1.2 m tall. **Stem** Erect, densely tufted. **Leaves** Flat, 30-60 cm long, narrowed at base, with very rough edges. **Flowers** Heads 20-40 cm long, wiry, hairy, reddish brown. **Fruit and Seeds** Bristled and twisted with 2 bends. **Habitat** Roadsides, open woodlands, pastures. **Distinguishing Features** Distinct, although subspecies are hard to tell apart.
+**common names:** thatch grass
+
+**Plant Form** Perennial tufted grass. **Size** Up to 1.2 m tall. **Stem** Erect, densely tufted. **Leaves** Flat, 30-60 cm long, narrowed at base, with very rough edges. **Flowers** Heads 20-40 cm long, wiry, hairy, reddish brown. **Fruit and Seeds** Bristled and twisted with 2 bends. **Habitat** Roadsides, open woodlands, pastures. **Distinguishing Features** Distinct, although subspecies are hard to tell apart.
 
 
 ![Tall, thin, straight](54627_IMG_1126.jpg)

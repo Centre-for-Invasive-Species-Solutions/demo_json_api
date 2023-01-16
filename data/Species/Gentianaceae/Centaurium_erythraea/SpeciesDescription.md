@@ -1,6 +1,7 @@
 ## Gentianaceae
 # Centaurium erythraea
- **Plant Form** Erect rosette herb. **Size** 15-50cm tall.
+
+**Plant Form** Erect rosette herb. **Size** 15-50cm tall.
 
 
 ![Flowers](4657_IMG_0498.jpg)

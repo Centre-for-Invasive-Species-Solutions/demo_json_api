@@ -1,6 +1,7 @@
 ## Papaveraceae
 # Papaver somniferum
- **Plant Form** Erect annual herb. **Size** Up to 1m tall.
+
+**Plant Form** Erect annual herb. **Size** Up to 1m tall.
 
 
 ![Flower](4288_PA202804.jpg)

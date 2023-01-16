@@ -1,6 +1,7 @@
 ## Amaranthaceae
 # Chenopodium album
- **Plant Form** Erect annual herb. **Size** Up to 2.5m tall.
+
+**Plant Form** Erect annual herb. **Size** Up to 2.5m tall.
 
 
 ![Leaf](4307_PA202826.jpg)

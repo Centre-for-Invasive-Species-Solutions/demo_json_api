@@ -1,6 +1,7 @@
 ## Scrophulariaceae
 # Verbascum virgatum
- **Plant Form** Upright biennial herb. **Size** Up to 2 m tall.
+
+**Plant Form** Upright biennial herb. **Size** Up to 2 m tall.
 
 
 ![Flowers](70041_P1022572.jpg)

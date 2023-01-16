@@ -1,6 +1,7 @@
 ## Poaceae
 # Dactylis glomerata
- **Plant Form** Tufted perennial grass. **Size** Up to 1.4m tall.
+
+**Plant Form** Tufted perennial grass. **Size** Up to 1.4m tall.
 
 
 ![Bunchy seed heads](8415_P6880666.jpg)

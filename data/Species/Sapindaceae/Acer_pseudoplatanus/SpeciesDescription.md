@@ -1,6 +1,7 @@
 ## Sapindaceae
 # Acer pseudoplatanus
- **Plant Form** Large tree. **Size** Up to 30 m tall.
+
+**Plant Form** Large tree. **Size** Up to 30 m tall.
 
 
 ![Leaves](82969_P1077947.jpg)

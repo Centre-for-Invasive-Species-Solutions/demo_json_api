@@ -1,6 +1,7 @@
 ## Poaceae
 # Phalaris aquatica
- **Plant Form** Erect tufted perennial grass. **Size** Up to 1.5m tall.
+
+**Plant Form** Erect tufted perennial grass. **Size** Up to 1.5m tall.
 
 
 ![Large scaly seed heads](664_PC011881.jpg)

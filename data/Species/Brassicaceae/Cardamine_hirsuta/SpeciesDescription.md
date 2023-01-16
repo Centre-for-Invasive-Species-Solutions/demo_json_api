@@ -1,6 +1,7 @@
 ## Brassicaceae
 # Cardamine hirsuta
- **Plant Form** Rosette herb. **Size** Up to 35 cm tall.
+
+**Plant Form** Rosette herb. **Size** Up to 35 cm tall.
 
 
 ![Small plants](61861_P1020685.jpg)

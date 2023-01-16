@@ -1,6 +1,7 @@
 ## Caprifoliaceae
 # Dipsacus fullonum
- **Plant Form** Biennial herb. **Size** Up to 2.5m tall.
+
+**Plant Form** Biennial herb. **Size** Up to 2.5m tall.
 
 
 ![Flower head](80327_P1088753.jpg)

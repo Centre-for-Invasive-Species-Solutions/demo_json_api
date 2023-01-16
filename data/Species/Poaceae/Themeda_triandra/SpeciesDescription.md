@@ -1,6 +1,7 @@
 ## Poaceae
 # Themeda triandra
- **Plant Form** Tufted perennial grass. **Size** Up to 1.5 m tall.
+
+**Plant Form** Tufted perennial grass. **Size** Up to 1.5 m tall.
 
 
 ![A flower head](72927__SDI5372.jpg)

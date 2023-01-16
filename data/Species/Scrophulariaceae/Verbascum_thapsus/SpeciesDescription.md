@@ -1,6 +1,7 @@
 ## Scrophulariaceae
 # Verbascum thapsus
- **Plant Form** Large annual or biennial rosette herb. **Size** Up to 3 m tall.
+
+**Plant Form** Large annual or biennial rosette herb. **Size** Up to 3 m tall.
 
 
 ![Young plants](62441__DSC2211.jpg)

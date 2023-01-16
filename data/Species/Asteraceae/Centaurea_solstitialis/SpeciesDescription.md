@@ -1,6 +1,8 @@
 ## Asteraceae
 # Centaurea solstitialis
- **Plant Form** Annual or biennial herb. **Size** Up to 1m tall.
+**common names:** St Barnaby's thistle
+
+**Plant Form** Annual or biennial herb. **Size** Up to 1m tall.
 
 
 ![Flowers](11752_P6940915.jpg)

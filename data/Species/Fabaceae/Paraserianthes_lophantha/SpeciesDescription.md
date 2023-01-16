@@ -1,6 +1,7 @@
 ## Fabaceae
 # Paraserianthes lophantha
- **Plant Form** Shrub to medium sized tree. **Size** 2-10m tall.
+
+**Plant Form** Shrub to medium sized tree. **Size** 2-10m tall.
 
 
 ![Growth habit](82101_P1055312.jpg)

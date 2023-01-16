@@ -1,6 +1,7 @@
 ## Polygonaceae
 # Polygonum arenastrum
- **Plant Form** Sprawling mat-forming herb. **Size** Up to 30cm tall, mats up to 1.5m diameter.
+
+**Plant Form** Sprawling mat-forming herb. **Size** Up to 30cm tall, mats up to 1.5m diameter.
 
 
 ![Small thick leaves](3116_P6163433.jpg)

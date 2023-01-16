@@ -1,6 +1,8 @@
 ## Asteraceae
 # Sonchus asper
- **Plant Form** Annual or biennial rosette herb. **Size** 20 cm to 2 m tall.
+**common names:** prickly sowthistle
+
+**Plant Form** Annual or biennial rosette herb. **Size** 20 cm to 2 m tall.
 
 
 ![Leaves prickly](1530_PA121641.jpg)

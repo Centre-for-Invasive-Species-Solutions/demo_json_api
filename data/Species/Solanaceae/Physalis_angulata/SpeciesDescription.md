@@ -1,6 +1,7 @@
 ## Solanaceae
 # Physalis angulata
- **Plant Form** Erect annual shrub. **Size** Up to 90cm tall.
+
+**Plant Form** Erect annual shrub. **Size** Up to 90cm tall.
 
 
 ![Fruit are in papery covers](99896_P1111945.jpg)

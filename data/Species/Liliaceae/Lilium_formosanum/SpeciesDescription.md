@@ -1,6 +1,7 @@
 ## Liliaceae
 # Lilium formosanum
- **Plant Form** Upright perennial herb. **Size** Up to 2m tall.
+
+**Plant Form** Upright perennial herb. **Size** Up to 2m tall.
 
 
 ![Strap leaves, angular stem](9863_P6890828.jpg)

@@ -1,6 +1,7 @@
 ## Asteraceae
 # Gazania linearis
- **Plant Form** Tufted perennial herb. **Size** Up to 30cm tall.
+
+**Plant Form** Tufted perennial herb. **Size** Up to 30cm tall.
 
 
 ![Divided leaves](3139_P6163468.jpg)

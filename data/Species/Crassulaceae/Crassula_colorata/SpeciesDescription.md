@@ -1,6 +1,7 @@
 ## Crassulaceae
 # Crassula colorata
- **Plant Form** Erect annual herb. **Size** Up to 15cm tall.
+
+**Plant Form** Erect annual herb. **Size** Up to 15cm tall.
 
 
 ![Small plant](36035_IMG_6532.jpg)

@@ -1,6 +1,7 @@
 ## Poaceae
 # Panicum capillare
- **Plant Form** Tufted annual grass. **Size** Up to 1.2m tall.
+
+**Plant Form** Tufted annual grass. **Size** Up to 1.2m tall.
 
 
 ![Small grass, glassy light green](14873_IMG_9748.jpg)

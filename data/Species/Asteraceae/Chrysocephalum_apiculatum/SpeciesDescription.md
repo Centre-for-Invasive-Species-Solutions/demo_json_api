@@ -1,6 +1,7 @@
 ## Asteraceae
 # Chrysocephalum apiculatum
- **Plant Form** Bushy herb. **Size** 7-60cm tall.
+
+**Plant Form** Bushy herb. **Size** 7-60cm tall.
 
 
 ![Growth form](64423_P1031926.jpg)

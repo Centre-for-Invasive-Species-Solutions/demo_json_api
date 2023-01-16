@@ -1,6 +1,7 @@
 ## Asteraceae
 # Cichorium intybus
- **Plant Form** Perennial rosette herb. **Size** 30-120cm tall.
+
+**Plant Form** Perennial rosette herb. **Size** 30-120cm tall.
 
 
 ![Flower](76683_P1108286.jpg)

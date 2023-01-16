@@ -1,6 +1,7 @@
 ## Loganiaceae
 # Spigelia anthelmia
- **Plant Form** Erect herb. **Size** Up to 50 cm tall.
+
+**Plant Form** Erect herb. **Size** Up to 50 cm tall.
 
 
 ![Flowers](59616_8f6ba6e58590ccd7aea9dfbd5acf5a85b00d5a53_960px.jpg)

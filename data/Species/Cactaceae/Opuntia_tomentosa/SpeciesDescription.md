@@ -1,6 +1,7 @@
 ## Cactaceae
 # Opuntia tomentosa
- **Plant Form** Upright succulent shrub to tree-like plant. **Size** 2-8m tall.
+
+**Plant Form** Upright succulent shrub to tree-like plant. **Size** 2-8m tall.
 
 
 ![Tree-sized cactus](4928_IMGP6730.jpg)

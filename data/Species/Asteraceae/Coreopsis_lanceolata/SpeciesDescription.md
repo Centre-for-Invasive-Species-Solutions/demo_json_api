@@ -1,6 +1,7 @@
 ## Asteraceae
 # Coreopsis lanceolata
- **Plant Form** Perennial herb forming clumps. **Size** Up to 1m tall.
+
+**Plant Form** Perennial herb forming clumps. **Size** Up to 1m tall.
 
 
 ![Flowers](73097__DSF3494.jpg)

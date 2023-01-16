@@ -1,6 +1,7 @@
 ## Plantaginaceae
 # Plantago lanceolata
- **Plant Form** Annual or biennial rosette herb. **Size** Up to 45cm tall.
+
+**Plant Form** Annual or biennial rosette herb. **Size** Up to 45cm tall.
 
 
 ![Often flat, leaves have 4 veins](1624_PA111630.jpg)

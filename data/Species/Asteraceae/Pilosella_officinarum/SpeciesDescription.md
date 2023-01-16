@@ -1,6 +1,7 @@
 ## Asteraceae
 # Pilosella officinarum
- **Plant Form** Low-growing perennial rosette herb. **Size** Up to 50cm tall.
+
+**Plant Form** Low-growing perennial rosette herb. **Size** Up to 50cm tall.
 
 
 ![Yellow flowers](49853_20201109_113614.jpg)

@@ -1,6 +1,8 @@
 ## Nymphaeaceae
 # Nymphaea
- **Plant Form** Aquatic perennial with floating leaves. **Size** 50 cm to 2 m deep.
+**common names:** water lilies
+
+**Plant Form** Aquatic perennial with floating leaves. **Size** 50 cm to 2 m deep.
 
 
 ![Magenta flowers - exotic species](5031_DSCF8729.jpg)

@@ -1,6 +1,9 @@
 ## Asteraceae
 # Conyza sumatrensis
- **Plant Form** Erect annual herb. **Size** Up to 2m tall.
+**common names:** tall fleabane
+**synonyms:** Conyza sumatrensis
+
+**Plant Form** Erect annual herb. **Size** Up to 2m tall.
 
 
 ![Larger leaves](105414_P1245625.jpg)

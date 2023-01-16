@@ -1,6 +1,7 @@
 ## Brassicaceae
 # Capsella bursa-pastoris
- **Plant Form** Erect herb. **Size** 8-40 cm tall.
+
+**Plant Form** Erect herb. **Size** 8-40 cm tall.
 
 
 ![White flowers and seed pods](3270_P6083069.jpg)

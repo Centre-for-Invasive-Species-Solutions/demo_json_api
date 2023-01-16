@@ -1,6 +1,7 @@
 ## Cactaceae
 # Cylindropuntia pallida
- **Plant Form** Branched cactus. **Size** Up to 1.5 m tall and 3 m wide.
+
+**Plant Form** Branched cactus. **Size** Up to 1.5 m tall and 3 m wide.
 
 
 ![Medium-sized plant](47811_Cylindropuntia-pallida_large-plant_Ouyen-State-Forest.jpg)

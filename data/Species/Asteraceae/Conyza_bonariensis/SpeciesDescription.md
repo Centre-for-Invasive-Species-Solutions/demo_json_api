@@ -1,6 +1,9 @@
 ## Asteraceae
 # Conyza bonariensis
- **Plant Form** Erect annual herb. **Size** Up to 1m tall.
+**common names:** flaxleaf fleabane
+**synonyms:** Conyza bonariensis
+
+**Plant Form** Erect annual herb. **Size** Up to 1m tall.
 
 
 ![Brown silk on seeds](13938_P6970082.jpg)

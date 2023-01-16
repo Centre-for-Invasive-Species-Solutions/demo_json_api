@@ -1,6 +1,7 @@
 ## Asteraceae
 # Helminthotheca echioides
- **Plant Form** Annual to perennial rosette herb. **Size** Up to 100cm tall.
+
+**Plant Form** Annual to perennial rosette herb. **Size** Up to 100cm tall.
 
 
 ![Yellow flowers in spikey clusters](81483_P1044168.jpg)

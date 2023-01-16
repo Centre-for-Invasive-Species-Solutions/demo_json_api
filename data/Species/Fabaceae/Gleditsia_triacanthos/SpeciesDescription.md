@@ -1,6 +1,8 @@
 ## Fabaceae
 # Gleditsia triacanthos
- **Plant Form** Large deciduous tree. **Size** Up to 30m tall.
+**common names:** honey locust
+
+**Plant Form** Large deciduous tree. **Size** Up to 30m tall.
 
 
 ![Twigs have long spines](5212_IMG_6543.jpg)

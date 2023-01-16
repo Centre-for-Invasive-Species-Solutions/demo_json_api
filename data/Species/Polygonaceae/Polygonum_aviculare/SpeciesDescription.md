@@ -1,6 +1,7 @@
 ## Polygonaceae
 # Polygonum aviculare
- **Plant Form** Sprawling mat-forming herb. **Size** Up to 30 cm tall, mats up to 1 m diameter.
+
+**Plant Form** Sprawling mat-forming herb. **Size** Up to 30 cm tall, mats up to 1 m diameter.
 
 
 ![Leaves about 2 cm long](1590_PA111534.jpg)

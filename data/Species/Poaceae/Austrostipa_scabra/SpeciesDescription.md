@@ -1,6 +1,7 @@
 ## Poaceae
 # Austrostipa scabra
- **Plant Form** Tufted grass. **Size** Stems up to 60 cm tall.
+
+**Plant Form** Tufted grass. **Size** Stems up to 60 cm tall.
 
 
 ![Fine grass, likes hard ground](2118_P6840245.jpg)

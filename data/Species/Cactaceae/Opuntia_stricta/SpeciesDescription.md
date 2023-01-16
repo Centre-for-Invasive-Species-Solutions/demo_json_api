@@ -1,6 +1,8 @@
 ## Cactaceae
 # Opuntia stricta
- **Plant Form** Upright spreading succulent shrub. **Size** 50 cm to 2 m tall.
+**common names:** erect pricky pear
+
+**Plant Form** Upright spreading succulent shrub. **Size** 50 cm to 2 m tall.
 
 
 ![Fruit](2965_P7105426.jpg)

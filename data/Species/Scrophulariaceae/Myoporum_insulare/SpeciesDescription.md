@@ -1,6 +1,7 @@
 ## Scrophulariaceae
 # Myoporum insulare
- **Plant Form** Shrub or small tree. **Size** Up to 6m tall.
+
+**Plant Form** Shrub or small tree. **Size** Up to 6m tall.
 
 
 ![Fruit](68625_P1000694.jpg)

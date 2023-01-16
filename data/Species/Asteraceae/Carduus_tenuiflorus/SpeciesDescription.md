@@ -1,6 +1,7 @@
 ## Asteraceae
 # Carduus tenuiflorus
- **Plant Form** Erect annual herb. **Size** 50-150 cm tall.
+
+**Plant Form** Erect annual herb. **Size** 50-150 cm tall.
 
 
 ![Small flowers](62390__DSF2694.jpg)

@@ -1,6 +1,7 @@
 ## Asteraceae
 # Xerochrysum viscosum
- **Plant Form** Erect annual herb. **Size** 20-80 cm tall.
+
+**Plant Form** Erect annual herb. **Size** 20-80 cm tall.
 
 
 ![Flowers - drought](959_PB064810.jpg)

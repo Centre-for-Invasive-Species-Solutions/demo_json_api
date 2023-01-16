@@ -1,6 +1,8 @@
 ## Cactaceae
 # Opuntia monacantha
- **Plant Form** Upright succulent shrub or tree-like plant. **Size** Usually 2-3 m tall but up to 6 m.
+**common names:** drooping prickly pear
+
+**Plant Form** Upright succulent shrub or tree-like plant. **Size** Usually 2-3 m tall but up to 6 m.
 
 
 ![Flowers with flecks of red](5669_IMG_9985.jpg)

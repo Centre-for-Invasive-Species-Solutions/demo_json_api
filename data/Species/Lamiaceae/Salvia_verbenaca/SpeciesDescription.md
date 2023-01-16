@@ -1,6 +1,7 @@
 ## Lamiaceae
 # Salvia verbenaca
- **Plant Form** Erect rosette perennial herb. **Size** Up to 70cm tall.
+
+**Plant Form** Erect rosette perennial herb. **Size** Up to 70cm tall.
 
 
 ![Flowers and pods](1553_PA121677.jpg)

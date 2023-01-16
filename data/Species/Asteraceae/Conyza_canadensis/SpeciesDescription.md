@@ -1,6 +1,9 @@
 ## Asteraceae
 # Conyza canadensis
- **Plant Form** Erect annual herb. **Size** Up to 1.5m tall.
+**common names:** Canadian fleabane
+**synonyms:** Conyza canadensis
+
+**Plant Form** Erect annual herb. **Size** Up to 1.5m tall.
 
 
 ![Fluffy brown seed](103753_IMG_9715.jpg)

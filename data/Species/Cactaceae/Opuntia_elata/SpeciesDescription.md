@@ -1,6 +1,7 @@
 ## Cactaceae
 # Opuntia elata
- **Plant Form** Multi branched shrubby succulent. **Size** Up to 2 m tall.
+
+**Plant Form** Multi branched shrubby succulent. **Size** Up to 2 m tall.
 
 
 ![Yellow flowers](80472_P1033330.jpg)

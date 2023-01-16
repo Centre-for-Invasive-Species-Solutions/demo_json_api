@@ -1,6 +1,7 @@
 ## Brassicaceae
 # Lepidium africanum
- **Plant Form** Annual or perennial herb. **Size** Up to 70cm tall.
+
+**Plant Form** Annual or perennial herb. **Size** Up to 70cm tall.
 
 
 ![Seed in fine spreys](6237_IMGP5733.jpg)

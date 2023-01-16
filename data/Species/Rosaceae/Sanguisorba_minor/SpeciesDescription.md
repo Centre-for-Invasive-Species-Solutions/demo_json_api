@@ -1,6 +1,7 @@
 ## Rosaceae
 # Sanguisorba minor
- **Plant Form** Perennial rosette herb. **Size** Up to 1 m tall.
+
+**Plant Form** Perennial rosette herb. **Size** Up to 1 m tall.
 
 
 ![Foliage](2674_P6840843.jpg)

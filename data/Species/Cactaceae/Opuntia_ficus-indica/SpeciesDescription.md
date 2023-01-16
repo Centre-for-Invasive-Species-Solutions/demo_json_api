@@ -1,6 +1,8 @@
 ## Cactaceae
 # Opuntia ficus-indica
- **Plant Form** Succulent shrub or tree. **Size** Up to 5m tall.
+**common names:** Barbary fig
+
+**Plant Form** Succulent shrub or tree. **Size** Up to 5m tall.
 
 
 ![Yellow flowers](48875_Opuntia-ficus-indica_Tresco-8.jpg)
