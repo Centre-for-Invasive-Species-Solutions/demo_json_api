@@ -14,7 +14,7 @@ def generateIndex_HR():
         file.write("---\n")
         print(os.getcwd())
 
-        for current_dir, subdirs, files in os.walk( data_source ):
+        for current_dir, subdirs, files in os.walk( data_source , topdown=False):
             write_dir = current_dir[len(data_source)+1:]
             # Current Iteration Directory
             if not (write_dir):
