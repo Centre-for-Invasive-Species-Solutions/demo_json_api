@@ -42,7 +42,7 @@ def writeSpeciesMarkdown(data, path):
         md_string += ("**Synonyms**" + data.get("Synonyms")) + "\n"  
     md_string += ("\n")
     if (data.get("PlantForm")):
-        md_string += "**Plant Form**" + data.get("Plantform") + "\n"  
+        md_string += "**Plant Form**" + data.get("PlantForm") + "\n"  
     if (data.get("Size")):
         md_string += "**Size**" + data.get("Size") + "\n"  
     if (data.get("Stem")):
