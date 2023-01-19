@@ -33,7 +33,7 @@ def generateIndex_HR():
                         data = json.load(json_file)  ## should be in a try 
                         name = data.get('ScientificName', filename) 
                         display_path = os.path.join( write_dir, filename )
-                        url = base_url + "data/" + display_path
+                        url = base_url + "data/" + display_path.strip(".json")
                         file.write('- ['+ name + "](" + url + ')\n\n')
                     except Exception as e:
                         print(e)
