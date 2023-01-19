@@ -1,1 +1,0 @@
- **Family** Cactaceae **Scientific Name** Opuntia ficus-indica **Plant Form** Succulent shrub or tree. **Size** Up to 5m tall.

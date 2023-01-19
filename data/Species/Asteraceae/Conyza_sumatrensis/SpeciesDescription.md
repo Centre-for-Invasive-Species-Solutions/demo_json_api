@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Conyza sumatrensis **Plant Form** Erect annual herb. **Size** Up to 2m tall.

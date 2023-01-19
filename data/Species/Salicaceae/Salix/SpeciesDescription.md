@@ -1,1 +1,0 @@
- **Family** Salicaceae **Scientific Name** Salix **Plant Form** Deciduous trees or shrubs. **Size** Up to 30m tall.

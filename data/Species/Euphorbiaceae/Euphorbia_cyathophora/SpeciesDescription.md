@@ -1,1 +1,0 @@
- **Family** Euphorbiaceae **Scientific Name** Euphorbia cyathophora **Plant Form** Erect annual herb. **Size** Up to 90cm tall.

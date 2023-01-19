@@ -1,1 +1,0 @@
- **Family** Polygonaceae **Scientific Name** Rumex crispus **Plant Form** Perennial rosette herb. **Size** Up to 1.5 m tall.

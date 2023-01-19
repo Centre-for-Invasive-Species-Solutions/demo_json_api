@@ -1,1 +1,0 @@
- **Family** Convolvulaceae **Scientific Name** Argyreia nervosa **Plant Form** Woody climbing vine. **Size** Upwards of 10 m high.

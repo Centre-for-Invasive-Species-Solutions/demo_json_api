@@ -1,1 +1,0 @@
- **Family** Rosaceae **Scientific Name** Sanguisorba minor **Plant Form** Perennial rosette herb. **Size** Up to 1 m tall.

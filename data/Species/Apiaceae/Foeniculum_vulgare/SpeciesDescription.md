@@ -1,1 +1,0 @@
- **Family** Apiaceae **Scientific Name** Foeniculum vulgare **Plant Form** Erect multi-stemmed perennial herb. **Size** Up to 2m tall.

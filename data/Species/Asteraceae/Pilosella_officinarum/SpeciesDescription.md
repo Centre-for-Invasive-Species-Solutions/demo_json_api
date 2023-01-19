@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Pilosella officinarum **Plant Form** Low-growing perennial rosette herb. **Size** Up to 50cm tall.

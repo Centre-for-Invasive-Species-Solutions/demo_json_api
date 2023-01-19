@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Conyza canadensis **Plant Form** Erect annual herb. **Size** Up to 1.5m tall.

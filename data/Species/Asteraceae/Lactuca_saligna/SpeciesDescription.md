@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Lactuca saligna **Plant Form** Annual or biennial erect herb. **Size** 30 cm to 1 m tall.

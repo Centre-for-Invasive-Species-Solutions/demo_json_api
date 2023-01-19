@@ -1,1 +1,0 @@
- **Family** Solanaceae **Scientific Name** Physalis angulata **Plant Form** Erect annual shrub. **Size** Up to 90cm tall.

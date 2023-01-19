@@ -1,1 +1,0 @@
- **Family** Cactaceae **Scientific Name** Cylindropuntia pallida **Plant Form** Branched cactus. **Size** Up to 1.5 m tall and 3 m wide.

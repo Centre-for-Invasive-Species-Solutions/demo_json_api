@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Senecio linearifolius **Plant Form** Perennial herb or shrub. **Size** 50 cm to 1.5 m tall.

@@ -1,1 +1,0 @@
- **Family** Solanaceae **Scientific Name** Solanum aviculare **Plant Form** Erect shrub or small tree. **Size** Up to 4 m tall.

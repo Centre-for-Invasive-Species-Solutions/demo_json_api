@@ -1,1 +1,0 @@
- **Family** Fabaceae **Scientific Name** Gleditsia triacanthos **Plant Form** Large deciduous tree. **Size** Up to 30m tall.

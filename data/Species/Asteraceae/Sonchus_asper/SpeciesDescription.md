@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Sonchus asper **Plant Form** Annual or biennial rosette herb. **Size** 20 cm to 2 m tall.

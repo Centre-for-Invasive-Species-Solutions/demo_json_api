@@ -1,1 +1,0 @@
- **Family** Caryophyllaceae **Scientific Name** Stellaria media **Plant Form** Sprawling annual or biennial herb. **Size** Up to 60 cm long.

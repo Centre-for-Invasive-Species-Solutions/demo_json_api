@@ -1,1 +1,0 @@
- **Family** Amaranthaceae **Scientific Name** Chenopodium album **Plant Form** Erect annual herb. **Size** Up to 2.5m tall.

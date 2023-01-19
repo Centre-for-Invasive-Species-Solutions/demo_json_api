@@ -1,1 +1,0 @@
- **Family** Polygonaceae **Scientific Name** Polygonum aviculare **Plant Form** Sprawling mat-forming herb. **Size** Up to 30 cm tall, mats up to 1 m diameter.

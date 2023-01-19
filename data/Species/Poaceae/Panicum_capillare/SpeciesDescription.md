@@ -1,1 +1,0 @@
- **Family** Poaceae **Scientific Name** Panicum capillare **Plant Form** Tufted annual grass. **Size** Up to 1.2m tall.

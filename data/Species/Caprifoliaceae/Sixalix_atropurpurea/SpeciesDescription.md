@@ -1,1 +1,0 @@
- **Family** Caprifoliaceae **Scientific Name** Sixalix atropurpurea **Plant Form** Erect herb. **Size** Up to 60 cm.

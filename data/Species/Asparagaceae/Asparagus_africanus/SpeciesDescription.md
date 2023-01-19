@@ -1,1 +1,0 @@
- **Family** Asparagaceae **Scientific Name** Asparagus africanus

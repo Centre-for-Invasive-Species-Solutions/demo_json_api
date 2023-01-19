@@ -1,1 +1,0 @@
- **Family** Lamiaceae **Scientific Name** Salvia verbenaca **Plant Form** Erect rosette perennial herb. **Size** Up to 70cm tall.

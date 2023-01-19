@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Centaurea calcitrapa **Plant Form** Annual shrubby herb. **Size** Up to 1m tall.

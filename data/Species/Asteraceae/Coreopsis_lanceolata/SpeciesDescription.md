@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Coreopsis lanceolata **Plant Form** Perennial herb forming clumps. **Size** Up to 1m tall.

@@ -1,1 +1,0 @@
- **Family** Loganiaceae **Scientific Name** Spigelia anthelmia **Plant Form** Erect herb. **Size** Up to 50 cm tall.

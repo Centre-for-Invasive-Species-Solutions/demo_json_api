@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Centaurea solstitialis **Plant Form** Annual or biennial herb. **Size** Up to 1m tall.

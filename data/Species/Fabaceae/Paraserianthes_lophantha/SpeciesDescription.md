@@ -1,1 +1,0 @@
- **Family** Fabaceae **Scientific Name** Paraserianthes lophantha **Plant Form** Shrub to medium sized tree. **Size** 2-10m tall.

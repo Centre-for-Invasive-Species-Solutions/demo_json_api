@@ -1,1 +1,0 @@
- **Family** Asteraceae **Scientific Name** Xerochrysum viscosum **Plant Form** Erect annual herb. **Size** 20-80 cm tall.

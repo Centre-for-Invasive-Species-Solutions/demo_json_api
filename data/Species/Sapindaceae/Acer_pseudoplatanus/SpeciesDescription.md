@@ -1,1 +1,0 @@
- **Family** Sapindaceae **Scientific Name** Acer pseudoplatanus **Plant Form** Large tree. **Size** Up to 30 m tall.
