@@ -36,8 +36,8 @@ def generateIndex_HR():
                             display_path = os.path.join( write_dir, filename )
                             url = base_url + "data/" + display_path.strip(".json")
                             file.write('- ['+ name + "](" + url + ')\n')
-                            file.write('   - ['+ name + "MD](" + url + '.md)\n')
-                            file.write('   - ['+ name + "API](" + url + '.json)\n')
+                            file.write("   - [Raw markdown](" + url + '.md)\n')
+                            file.write("   - [API](" + url + '.json)\n\n')
 
                         except Exception as e:
                             print(e)
@@ -69,12 +69,12 @@ def generateIndex_API_hr():
             write_dir = current_dir[len(data_source)+1:]
             # Current Iteration Directory
             if (len(files)):   
-                data[write_dir] = files
-        holder = {'data': data}
+                data["data/"+ write_dir] = files
+        # holder = {'data': data}
         hr_api_file.write("# API Endpoints")
         hr_api_file.write("\n\n```")
 
-        json.dump(holder, hr_api_file, indent = 6)
+        json.dump(data, hr_api_file, indent = 6)
         hr_api_file.write("```")
 
   
