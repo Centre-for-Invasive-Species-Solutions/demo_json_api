@@ -3,7 +3,7 @@
 "ScientificName":"Gloriosa superba",
 "CommonNames":"glory lily",
 "Synonyms":"",
-"Plantform":"Perennial climbing or scrambling herb.",
+"PlantForm":"Perennial climbing or scrambling herb.",
 "Size":"Up to 4 m long.",
 "Stem":"Branched, with slender tendrils.",
 "Leaves":"Smooth, shiny, spear shaped 6-20 cm long, with many parallel veins and tendrils at tip, on stalks growing from leaf forks.",
@@ -11,5 +11,10 @@
 "FruitSeeds":"Green capsule ripening to brown or black. 4-10 cm long, in 3 segments which split when ripe. Seeds orange turning brown and hardening when ripe.",
 "Habitat":"Coastal dunes, scrub and headlands, littoral rainforest.",
 "DistinguishingFeatures":"Distinct flowers and growth habit.",
+"Photos":[
+{"FileName":"11416_P6940375.jpg","Caption":"leaf tips are tendrils"},
+{"FileName":"144131_Gloriosa_superba_paulmathi_CC-BY_85628628.jpeg","Caption":"Flowers have wavy reflexed petals"},
+{"FileName":"54409_Gloriosa_lily_Nhulunbuy_JWestaway_1.jpg","Caption":"Often rambling in the understorey"},
+{"FileName":"95146_P1189389.jpg","Caption":"Seed pod and seeds"}
 ]
 }

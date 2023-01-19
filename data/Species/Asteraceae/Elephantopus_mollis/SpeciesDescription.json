@@ -3,7 +3,7 @@
 "ScientificName":"Elephantopus mollis",
 "CommonNames":"",
 "Synonyms":"",
-"Plantform":"",
+"PlantForm":"",
 "Size":"",
 "Stem":"",
 "Leaves":"",
@@ -11,5 +11,7 @@
 "FruitSeeds":"",
 "Habitat":"",
 "DistinguishingFeatures":"",
+"Photos":[
+{"FileName":"10634_P6920476.jpg","Caption":"Almost a flat weed"}
 ]
 }

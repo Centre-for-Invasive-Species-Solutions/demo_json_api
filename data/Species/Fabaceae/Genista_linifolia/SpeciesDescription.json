@@ -3,7 +3,7 @@
 "ScientificName":"Genista linifolia",
 "CommonNames":"flax-leaf broom",
 "Synonyms":"",
-"Plantform":"",
+"PlantForm":"",
 "Size":"",
 "Stem":"",
 "Leaves":"",
@@ -11,5 +11,10 @@
 "FruitSeeds":"",
 "Habitat":"",
 "DistinguishingFeatures":"",
+"Photos":[
+{"FileName":"19691_Genista-linifolia01.jpg","Caption":"Flowers"},
+{"FileName":"19694_Genista-linifolia04.jpg","Caption":"Growth habit"},
+{"FileName":"19707_Genista-linifolia17.jpg","Caption":"Growing seed pods"},
+{"FileName":"143839_Genista_linifolia_annamills_CC-BY-NC_114606613.jpeg","Caption":"Open seed pods"}
 ]
 }

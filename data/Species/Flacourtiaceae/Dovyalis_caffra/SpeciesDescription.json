@@ -3,7 +3,7 @@
 "ScientificName":"Dovyalis caffra",
 "CommonNames":"Kei apple ",
 "Synonyms":"",
-"Plantform":"",
+"PlantForm":"",
 "Size":"",
 "Stem":"",
 "Leaves":"",
@@ -11,5 +11,10 @@
 "FruitSeeds":"",
 "Habitat":"",
 "DistinguishingFeatures":"",
+"Photos":[
+{"FileName":"136038_Dovyalis_caffra_louws_CC-BY-NC_49100948.jpeg","Caption":"yellow fruit"},
+{"FileName":"136085_Dovyalis_caffra_troos_CC-BY-NC_57746071.jpeg","Caption":"Very long spines"},
+{"FileName":"136080_Dovyalis_caffra_tom-kirschey_CC_103316138.jpeg","Caption":"Leaves clustered"},
+{"FileName":"136019_Dovyalis_caffra_fearlesscapefox_CC_126058437.jpeg","Caption":"Foliage is dense"}
 ]
 }

@@ -3,7 +3,7 @@
 "ScientificName":"Elodea canadensis",
 "CommonNames":"elodea",
 "Synonyms":"",
-"Plantform":"",
+"PlantForm":"",
 "Size":"",
 "Stem":"",
 "Leaves":"",
@@ -11,5 +11,9 @@
 "FruitSeeds":"",
 "Habitat":"",
 "DistinguishingFeatures":"",
+"Photos":[
+{"FileName":"138920_Elodea_canadensis_danbadlands_CC-BY-NC_108463095.jpeg","Caption":"Leaves can be curled back"},
+{"FileName":"139020_Elodea_canadensis_rowan_hindmarsh_walls_CC-BY-NC_105467005.jpeg","Caption":"Flowers and foliage"},
+{"FileName":"138944_Elodea_canadensis_irinahohryakova_CC_128567872.jpeg","Caption":"Dense infestation"}
 ]
 }
