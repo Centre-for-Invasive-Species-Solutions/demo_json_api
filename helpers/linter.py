@@ -24,7 +24,7 @@ def lint_repo():
                             print("   json parse failure:  " +write_dir+"/"+ filename)
                             print(exception)
                             ret = 1
-        if ret: 
+        if ret:
             exit(1)
   
 
