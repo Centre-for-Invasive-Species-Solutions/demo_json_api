@@ -75,7 +75,7 @@ def generateIndex_API_hr():
         hr_api_file.write("\n\n")
 
         json.dump(data, hr_api_file, indent = 6)
-        hr_api_file.write("")
+        hr_api_file.write(" ")
 
   
 
