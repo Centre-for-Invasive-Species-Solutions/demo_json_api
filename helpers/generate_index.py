@@ -34,7 +34,7 @@ def generateIndex_HR():
                             data = json.load(json_file)  ## should be in a try 
                             name = data.get('ScientificName', filename) 
                             display_path = os.path.join( write_dir, filename )
-                            url = base_url + "data/" + display_path
+                            url = base_url + "data/" + display_path.strip(".json")
                             file.write('- ['+ name + "](" + url + ')\n')
                             file.write("   - [Raw markdown](" + url + '.md)\n')
                             file.write("   - [API](" + url + '.json)\n\n')
@@ -72,10 +72,10 @@ def generateIndex_API_hr():
                 data["data/"+ write_dir] = files
         # holder = {'data': data}
         hr_api_file.write("# API Endpoints")
-        hr_api_file.write("\n\n")
+        hr_api_file.write("\n\n```")
 
         json.dump(data, hr_api_file, indent = 6)
-        hr_api_file.write(" ")
+        hr_api_file.write("```")
 
   
 
