@@ -19,5 +19,5 @@ base url [base_url]
 
 [API](https://centre-for-invasive-species-solutions.github.io/demo_json_api/api.json)
 
-[API]([base_url]api.json)
+[API](api.json)
 
