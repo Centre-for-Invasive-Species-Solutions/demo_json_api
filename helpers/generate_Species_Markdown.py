@@ -33,35 +33,35 @@ def generateSpeciesMarkdown():
 def writeSpeciesMarkdown(data, path):
     md_string = ""
     if (data.get("Family")):
-        md_string += "# " + data.get("Family") + "\n" 
+        md_string += "# " + data.get("Family") + "\n"
     if (data.get("ScientificName")):
-        md_string += "## " + data.get("ScientificName") + "\n" 
+        md_string += "## " + data.get("ScientificName") + "\n"
     if (data.get("CommonNames")):
-        md_string += "**Common Names**" + data.get("CommonNames")  + "\n" 
+        md_string += "**Common Names:** " + data.get("CommonNames")  + "\n"
     if (data.get("Synonyms")):
-        md_string += ("**Synonyms**" + data.get("Synonyms")) + "\n"  
+        md_string += ("**Synonyms:** " + data.get("Synonyms")) + "\n"
     md_string += ("\n")
     if (data.get("PlantForm")):
-        md_string += "**Plant Form**" + data.get("PlantForm") + "\n"  
+        md_string += "**Plant Form:** " + data.get("PlantForm") + "\n"
     if (data.get("Size")):
-        md_string += "**Size**" + data.get("Size") + "\n"  
+        md_string += "**Size:** " + data.get("Size") + "\n"
     if (data.get("Stem")):
-        md_string += "**Stem**" + data.get("Stem") + "\n" 
+        md_string += "**Stem:** " + data.get("Stem") + "\n"
     if (data.get("Leaves")):
-        md_string += "**Leaves**" + data.get("Leaves") + "\n" 
+        md_string += "**Leaves:** " + data.get("Leaves") + "\n"
     if (data.get("Flowers")):
-        md_string += "**Flowers**" + data.get("Flowers") + "\n" 
+        md_string += "**Flowers:** " + data.get("Flowers") + "\n"
     if (data.get("FruitSeeds")):
-        md_string += "**Fruit and Seeds**" + data.get("FruitSeeds") + "\n" 
+        md_string += "**Fruit and Seeds:** " + data.get("FruitSeeds") + "\n"
     if (data.get("Habitat")):
-        md_string += "**Habitat**" + data.get("Habitat") + "\n" 
+        md_string += "**Habitat:** " + data.get("Habitat") + "\n"
     if (data.get("DistinguishingFeatures")):
-        md_string += "**Distinguishing Features**" + data.get("DistinguishingFeatures") + "\n" 
+        md_string += "**Distinguishing Features:** " + data.get("DistinguishingFeatures") + "\n"
     md_string += ("\n\n\n")
 
     if (data.get("Photos")):
         for photo in data.get("Photos"):
-            md_string += ('<img src="'+path+photo.get("FileName")+ '" style="display: block; margin: auto;" />') 
+            md_string += ('<img src="'+path+"/"+photo.get("FileName")+ '" style="display: block; margin: auto;" />')
     return md_string
 
 
