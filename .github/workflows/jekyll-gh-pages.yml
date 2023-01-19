@@ -30,6 +30,7 @@ jobs:
       - name: Generate Index
         run: |
           python ./helpers/generate_index.py
+          python ./helpers/generate_Species_Markdown.py
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
