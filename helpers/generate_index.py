@@ -30,9 +30,9 @@ def generateIndex_HR():
                 with open(relative_path) as json_file:
                     try:
                         data = json.load(json_file)  ## should be in a try 
-                        name = data.get('sciName', filename) 
+                        name = data.get('ScientificName', filename) 
                         display_path = os.path.join( write_dir, filename )
-                        url = "https://dane-2pi.github.io/demo_json_api/data/" + display_path
+                        url = "https://centre-for-invasive-species-solutions.github.io/demo_json_api/data/" + display_path
                         file.write('- ['+ name + "](" + url + ')\n\n')
                     except Exception as e:
                         print(e)
