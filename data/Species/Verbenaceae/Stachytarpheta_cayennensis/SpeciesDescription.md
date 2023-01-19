@@ -1,6 +1,0 @@
-## Verbenaceae
-# Stachytarpheta cayennensis
-
-
-
-

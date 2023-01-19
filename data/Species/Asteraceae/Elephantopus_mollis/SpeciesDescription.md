@@ -1,6 +1,0 @@
-## Asteraceae
-# Elephantopus mollis
-
-
-
-

@@ -1,6 +1,0 @@
-## Crassulaceae
-# Kalanchoe pinnata
-
-
-
-

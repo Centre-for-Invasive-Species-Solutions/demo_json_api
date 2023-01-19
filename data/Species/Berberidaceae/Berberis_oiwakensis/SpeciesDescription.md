@@ -1,6 +1,0 @@
-## Berberidaceae
-# Berberis oiwakensis
-
-
-
-

@@ -1,6 +1,0 @@
-## Equisetaceae
-# Equisetum arvense
-
-
-
-
