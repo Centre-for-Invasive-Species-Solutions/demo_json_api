@@ -3,12 +3,18 @@
 "ScientificName":"Echinochloa colona",
 "CommonNames":"barnyard grass",
 "Synonyms":"",
-"Plantform":"Tufted annual grass.",
+"PlantForm":"Tufted annual grass.",
 "Size":"Up to 1 m tall.",
 "Stem":"Cylindrical, hairless, with streaks, reddish purple or green, with smooth nodes.",
 "Leaves":"Flat, up to 15 cm long, no ligule (joint structure), often reddish at base, hairless, sometimes with purplish stripes.",
 "Flowers":"Green to purplish with many spikelets in a neat row.",
 "FruitSeeds":"Elliptical 2 mm long seeds.",
 "Habitat":"Cropland, gardens, roadsides, neglected land, waterways.",
-"DistinguishingFeatures":"Spikelets in neater rows than Echinochloa crus-galli."
+"DistinguishingFeatures":"Spikelets in neater rows than Echinochloa crus-galli.",
+"Photos":[
+{"FileName":"34496_BYG1.jpg","Caption":"Grows flat when young, occasionally with stripes"},
+{"FileName":"100160_P1122317.jpg","Caption":"Likes wet areas"},
+{"FileName":"136196_Echinochloa_colona_ku6777_CC_100026406.jpeg","Caption":"Seed heads are without bristles"},
+{"FileName":"85840_P1152603.jpg","Caption":"Erect foliage"}
+]
 }

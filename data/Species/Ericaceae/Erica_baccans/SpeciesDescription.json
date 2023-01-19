@@ -3,12 +3,18 @@
 "ScientificName":"Erica baccans",
 "CommonNames":"berry heath",
 "Synonyms":"",
-"Plantform":"",
+"PlantForm":"",
 "Size":"",
 "Stem":"",
 "Leaves":"",
 "Flowers":"",
 "FruitSeeds":"",
 "Habitat":"",
-"DistinguishingFeatures":""
+"DistinguishingFeatures":"",
+"Photos":[
+{"FileName":"139523_Erica_baccans_andrewm_CC-BY-NC_11120292.jpeg","Caption":"Close-up of flowers"},
+{"FileName":"139515_Erica_baccans_alexlansdowne_CC-BY-NC_53141028.jpeg","Caption":"Foliage with flowers"},
+{"FileName":"139592_Erica_baccans_gigilaidler_CC-BY-NC_18252658.jpeg","Caption":"Leaves"},
+{"FileName":"139692_Erica_baccans_michael_mcsweeney_CC-BY-NC_99302345.jpeg","Caption":"Growth habit"}
+]
 }

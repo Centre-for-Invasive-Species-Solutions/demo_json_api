@@ -3,12 +3,18 @@
 "ScientificName":"Erica arborea",
 "CommonNames":"tree heath",
 "Synonyms":"",
-"Plantform":"Shrub to small tree.",
+"PlantForm":"Shrub to small tree.",
 "Size":"Up to 5 m tall.",
 "Stem":"Masses of erect branched stems, juvenile stems have small hairs.",
 "Leaves":"Long narrow hard, needle like. In crowded whorls of 4 on stem.",
 "Flowers":"Large clusters of many white small bell-shaped flowers.",
 "FruitSeeds":"Capsules containing many seeds.",
 "Habitat":"Forests, woodlands, riparian areas, shrublands, roadsides.",
-"DistinguishingFeatures":"Distinct from native heath and much taller than other invasive heath."
+"DistinguishingFeatures":"Distinct from native heath and much taller than other invasive heath.",
+"Photos":[
+{"FileName":"138498_Erica_arborea_alvaroseixas_CC-BY-NC_110390171.jpeg","Caption":"Flowers are small bells"},
+{"FileName":"133429_P1407290.jpg","Caption":"Leaves are very small and thin"},
+{"FileName":"138485_Erica_arborea_ahmedm_CC-BY-NC_115109692.jpeg","Caption":"Plants have spires of leaves and flowers"},
+{"FileName":"138522_Erica_arborea_belenlb_CC-BY-NC_109446506.jpeg","Caption":"Close-up of leaves"}
+]
 }
