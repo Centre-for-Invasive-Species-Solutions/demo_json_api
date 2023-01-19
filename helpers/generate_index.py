@@ -72,10 +72,10 @@ def generateIndex_API_hr():
                 data["data/"+ write_dir] = files
         # holder = {'data': data}
         hr_api_file.write("# API Endpoints")
-        hr_api_file.write("\n\n```")
+        hr_api_file.write("\n\n ```json\n")
 
         json.dump(data, hr_api_file, indent = 6)
-        hr_api_file.write("```")
+        hr_api_file.write("\n```\n")
 
   
 
