@@ -27,16 +27,20 @@ def generateIndex_HR():
 
             # Files
             for filename in files:
-                relative_path = os.path.join( current_dir, filename )
-                with open(relative_path) as json_file:
-                    try:
-                        data = json.load(json_file)  ## should be in a try 
-                        name = data.get('ScientificName', filename) 
-                        display_path = os.path.join( write_dir, filename )
-                        url = base_url + "data/" + display_path.strip(".json")
-                        file.write('- ['+ name + "](" + url + ')\n\n')
-                    except Exception as e:
-                        print(e)
+                if filename.lower().endswith("json"):
+                    relative_path = os.path.join( current_dir, filename )
+                    with open(relative_path) as json_file:
+                        try:
+                            data = json.load(json_file)  ## should be in a try 
+                            name = data.get('ScientificName', filename) 
+                            display_path = os.path.join( write_dir, filename )
+                            url = base_url + "data/" + display_path.strip(".json")
+                            file.write('- ['+ name + "](" + url + ')\n')
+                            file.write('   - ['+ name + "MD](" + url + '.md)\n')
+                            file.write('   - ['+ name + "API](" + url + '.json)\n')
+
+                        except Exception as e:
+                            print(e)
 
 
 def generateIndex_API():
