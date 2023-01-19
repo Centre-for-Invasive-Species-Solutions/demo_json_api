@@ -32,6 +32,7 @@ jobs:
           python ./helpers/linter.py
 
   build:
+    needs: lint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
