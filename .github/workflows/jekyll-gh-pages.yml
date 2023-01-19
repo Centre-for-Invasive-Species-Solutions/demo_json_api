@@ -22,7 +22,7 @@ concurrency:
 
 jobs:
   # Build job
-    lint:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
