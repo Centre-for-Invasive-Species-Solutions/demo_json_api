@@ -61,9 +61,11 @@ def writeSpeciesMarkdown(data, path):
 
     if (data.get("Photos")):
         for photo in data.get("Photos"):
+            md_string += "<figure>"
             md_string += ('<img src="'+ "./"+photo.get("FileName")+ '" style="display: block; margin: auto;" />\n\n')
+            md_string += "<figcaption>" + photo.get("Caption") + "</figcaption>"
+            md_string += "</figure>"
     return md_string
-
 
 
 # Using the special variable 

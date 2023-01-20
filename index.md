@@ -1,3 +1,4 @@
+
 <!-- ---
 permalink: index
 
@@ -7,12 +8,13 @@ permalink: index
 
 
 # Index Page
-base url [base_url]
 
-## Generated pages 
-[Human readable index](index_hr)
+The index page can be found [here](index_hr)
 
-[Human readable api](api)
+## API
 
-[API](api.json)
+For automated access, the endpoints are visible below: 
 
+- [API](api)        \([.json](api.json)\)
+
+For a howto, visit [API help](api_readme)
