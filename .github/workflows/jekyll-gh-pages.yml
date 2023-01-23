@@ -37,10 +37,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Generate Species Markdown 
+        run: python ./helpers/generate_Species_Markdown.py
       - name: Generate Index
-        run: |
-          python ./helpers/generate_Species_Markdown.py
-          python ./helpers/generate_index.py
+        run: python ./helpers/generate_index.py
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll

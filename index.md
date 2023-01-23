@@ -9,12 +9,10 @@ permalink: index
 
 # Index Page
 
-The index page can be found [here](index_hr)
+The index page can be found **[here](index_hr)**
 
 ## API
 
-For automated access, the endpoints are visible below: 
-
-- [API](api)        \([.json](api.json)\)
-
-For a howto, visit [API help](api_readme)
+For automated access, please see the [API guide](api_readme)
+and the endpoints below.
+- [API Endpoints](api)        \([.json](api.json)\)
