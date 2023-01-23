@@ -26,7 +26,7 @@ def write_md_directory_tree(out_file, data: dict, depth=0, current_dir = "", pat
     Requires Python 3.10+ 
     """
     if isinstance(data, dict):
-        for key in data:
+        for key in sorted(data):
             if isinstance(data[key], dict): # another node
                 match depth:
                     case 0:
