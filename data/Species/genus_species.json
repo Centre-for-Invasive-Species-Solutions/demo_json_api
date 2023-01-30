@@ -1,7 +1,0 @@
-{
-        "sciName":"Genus Species", 
-        "altName":["generic name", "common name"], 
-        "states": ["NSW", "ACT"], 
-        "reportable":true, 
-        "description": "this will be quite long,,, format tbd, html or md??"
-}

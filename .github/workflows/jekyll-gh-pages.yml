@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["develop", "main", "pages"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,14 +22,25 @@ concurrency:
 
 jobs:
   # Build job
-  build:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate Index
+      - name: Linter
         run: |
-          python ./helpers/generate_index.py
+          python ./helpers/linter.py
+
+  build:
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate Species Markdown 
+        run: python ./helpers/generate_Species_Markdown.py
+      - name: Generate Index
+        run: python ./helpers/generate_index.py
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll

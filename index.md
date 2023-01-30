@@ -1,18 +1,18 @@
+
 <!-- ---
 permalink: index
+
 --- -->
+
+[base_url]: https://centre-for-invasive-species-solutions.github.io/demo_json_api/
+
 
 # Index Page
 
-## Genearted pages 
-[Human readable index](https://dane-2pi.github.io/demo_json_api/index_hr)
+The index page can be found **[here](index_hr)**
 
-[Human readable api](https://dane-2pi.github.io/demo_json_api/api)
+## API
 
-[API](https://dane-2pi.github.io/demo_json_api/api.json)
-
-## Species 
-- [Genus Species](https://dane-2pi.github.io/demo_json_api/data/genus_species.json)
-- [Genus Species2](https://dane-2pi.github.io/demo_json_api/data/genus_species2.json)
-
-
+For automated access, please see the [API guide](api_readme)
+and the endpoints below.
+- [API Endpoints](api)        \([.json](api.json)\)
