@@ -1,0 +1,14 @@
+#  
+
+
+# Procedurally generated markdown files made in helpers/generate_index.py
+api.json
+api.md 
+index_hr.md
+
+data/Species/*/*/*.md
+data/Species/*/*/*.html
+
+data/Species/.DS_Store
+
+**/.DS_Store
