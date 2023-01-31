@@ -57,6 +57,9 @@ def writeSpeciesMarkdown(data, path):
         md_string += "**Habitat:** " + data.get("Habitat") + "\n"
     if (data.get("DistinguishingFeatures")):
         md_string += "**Distinguishing Features:** " + data.get("DistinguishingFeatures") + "\n"
+    if (data.get("Impacts")):
+        md_string += "**Impacts:** " + data.get("Impacts") + "\n"
+
     md_string += ("\n\n\n")
 
     if (data.get("Photos")):
