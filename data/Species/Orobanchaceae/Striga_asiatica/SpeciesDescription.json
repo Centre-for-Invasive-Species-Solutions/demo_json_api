@@ -3,19 +3,19 @@
 "ScientificName":"Striga asiatica",
 "CommonNames":"red witchweed",
 "Synonyms":"",
-"PlantForm":"",
-"Size":"",
-"Stem":"",
-"Leaves":"",
-"Flowers":"",
-"FruitSeeds":"",
-"Habitat":"",
-"DistinguishingFeatures":"",
-"Impacts":"",
+"PlantForm":"Annual parasitic herb.",
+"Size":"Up to 60 cm tall, usually 15-20 cm.",
+"Stem":"Four-sided, covered in short hard hairs.",
+"Leaves":"Green, 6-40 mm long, narrow, tapering at the end.",
+"Flowers":"Bright red, pink, yellow, white, orange or purple. With 4-5 petals. Near top of stem, next to leaf.",
+"FruitSeeds":"Capsules up to 4 mm long containing over 500 miniscule brown seeds that look like dust.",
+"Habitat":"Agricultural land, woodlands, cropping areas, grassland, pastures.",
+"DistinguishingFeatures":"No lookalikes.",
+"Impacts":"Kill crop plants especially cereals and grasses.",
 "Photos":[
-{"FileName":"137857_Striga_asiatica_amy_chen_1225_CC-BY-NC_49435783.jpeg","Caption":"Small plant usually with red flowers"},
-{"FileName":"137903_Striga_asiatica_jimmy_finsbury_CC0_63618987.jpeg","Caption":"Close-up of flower"},
-{"FileName":"137991_Striga_asiatica_vynbos_CC-BY-SA_9331176.jpeg","Caption":"Size of plant"},
-{"FileName":"137933_Striga_asiatica_nuwan_CC-BY-NC_100684394.jpeg","Caption":"Can also have yellow or white flowers"}
+{"FileName":"137857_Striga_asiatica_amy_chen_1225_CC-BY-NC_49435783.jpeg","Caption":"Small parasitic herb"},
+{"FileName":"137903_Striga_asiatica_jimmy_finsbury_CC0_63618987.jpeg","Caption":"Flower close-up"},
+{"FileName":"137933_Striga_asiatica_nuwan_CC-BY-NC_100684394.jpeg","Caption":"Flowers yellow or red"},
+{"FileName":"137991_Striga_asiatica_vynbos_CC-BY-SA_9331176.jpeg","Caption":"Hand for scale"}
 ]
 }
