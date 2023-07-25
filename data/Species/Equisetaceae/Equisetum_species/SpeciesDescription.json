@@ -1,0 +1,26 @@
+{
+"Family":"Equisetaceae",
+<<<<<<< HEAD:data/Species/Equisetaceae/Equisetum_species/SpeciesDescription.json
+"ScientificName":"Equisetum species",
+"CommonNames":"Horsetails",
+=======
+"ScientificName":"Equisetum",
+"CommonNames":" ",
+>>>>>>> fe0208e42e6407ce8a9d9701eba0d0fa106b4fb3:data/Species/Equisetaceae/Equisetum/SpeciesDescription.json
+"Synonyms":"",
+"PlantForm":"Non-woody herbs.",
+"Size":"5 to 120 cm tall.",
+"Stem":"Green, hollow sterile stems, and pale brown fertile fronds, segmented and grooved.",
+"Leaves":"Inconspicuous small, growing in rings, joined at edges to form teeth around stem, casuarina like in appearance.",
+"Flowers":"None.",
+"FruitSeeds":"Fronds bear pale brown fruiting cones.",
+"Habitat":"Damp woodlands, pastures, riversides, bogs.",
+"DistinguishingFeatures":"Distinct.",
+"Impacts":"Infest creek lines, replacing native species, highly toxic to livestock, outcompete crops.",
+"Photos":[
+{"FileName":"14501_page-3.jpg","Caption":"Stems"},
+{"FileName":"103816_IMG_8793.jpg","Caption":"Foliage"},
+{"FileName":"104243_IMG_9950.jpg","Caption":"Cones"},
+{"FileName":"139099_Equisetum_arvense_captain_lavrushka_CC-BY-NC_130274193.jpeg","Caption":"Whorls on main stem"}
+]
+}
